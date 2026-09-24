@@ -1,0 +1,13 @@
+name: code_locator
+description: >-
+  Read-only repository navigator. Give it a symbol name, error string, or feature keyword;
+  it returns the exact file paths, line numbers, and surrounding code you need to change.
+  Use this instead of exploring the repository yourself when the target file is not obvious.
+model: gemma-4-31b-it-qat-w4a16-ct
+instruction: !include ../prompts/locator.md
+tools:
+  - read_file
+  - get_code_neighbors
+  - search_similar_code
+  - get_code_subgraph
+generate_content_config: !include ../configs/sampling.yaml

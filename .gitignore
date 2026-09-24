@@ -1,0 +1,29 @@
+# ── 大体量数据（用 scripts/fetch.py 从 Kaggle 重新下载）──
+data/
+vendor/
+_staging/
+dist/
+
+# ── 本地环境 ──
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# ── 运行产物 ──
+experiments/
+logs/
+results/
+
+# ── 第三方 PDF（不随仓库分发，见 docs/ 内的链接）──
+docs/orchestrator_paper.pdf
+
+# ── 系统与编辑器 ──
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
