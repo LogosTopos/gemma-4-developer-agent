@@ -1,0 +1,27 @@
+{
+  "checked_at": "2026-09-26",
+  "competition": "gemma-4-developer-agent",
+  "task_comparison": {
+    "local_sha256": "e4b3fd60f69dbc2b9213e54eeb9636db78aefe92c1d06269d73d9f5f8f3c8ad6",
+    "remote_sha256": "e4b3fd60f69dbc2b9213e54eeb9636db78aefe92c1d06269d73d9f5f8f3c8ad6",
+    "identical": true
+  },
+  "readme_comparison": {
+    "local_sha256": "0a93ab2cea983dc48319cdb1058aaee6b0ffcaee746b16b2e992eed62b6e4e0f",
+    "remote_sha256": "3d6e57a13234cb4e783ba24eaab486459af76e0923ea4c6607cd41cc8961bbbb",
+    "identical": false
+  },
+  "remote_listing": "first page of 200 only; no full remote asset validation",
+  "source_wheel": "/Users/topologyw/Documents/Kaggles/gemma_4/vendor/wheelhouse/swegemma-0.2.7-py3-none-any.whl",
+  "wheel_sha256": "b1c10ad18f7fd09074808a7e2b95d265f97ebc8244f73fb26d448786cba660ab",
+  "wheel_source_comparison": {
+    "swegemma/harness/agent_runner.py": {
+      "sha256": "dff7d2505340633c3fe50ba7073f2609fb2b41becd69c356d9af25cc4c1f98dd",
+      "matches_extracted_source": true
+    },
+    "swegemma/harness/verification.py": {
+      "sha256": "5602f33acb49062de8e99073199745679d86445297be9dd075ccec60c41b60dd",
+      "matches_extracted_source": true
+    }
+  }
+}

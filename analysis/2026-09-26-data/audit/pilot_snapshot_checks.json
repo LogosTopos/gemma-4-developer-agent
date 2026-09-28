@@ -1,0 +1,374 @@
+[
+  {
+    "instance_id": "fastapi_15661",
+    "snapshot_sha256": "765e6af89ca3388c17d70f6b00edf02598cb708e8f62d6d6d4ef4d6f8bc471e6",
+    "compressed_bytes": 319678174,
+    "git_files": 26,
+    "git_bytes": 302608340,
+    "working_tree_files": 2973,
+    "working_tree_bytes": 33511043,
+    "links": [],
+    "git_metadata": {
+      ".git/HEAD": "ref: refs/heads/main\n",
+      ".git/refs/heads/export_ref": "cfd0f239233090ba6259e9b5022ddeb85d4f152b\n",
+      ".git/refs/heads/main": "cfd0f239233090ba6259e9b5022ddeb85d4f152b\n"
+    },
+    "git_head_resolved": "cfd0f239233090ba6259e9b5022ddeb85d4f152b",
+    "task_base_commit": "ee22a4b8ca46dcce26c8c183afc4992a888d8be2",
+    "head_matches_task_base_commit": false,
+    "patch_apply_check": {
+      "patch": {
+        "ok": true,
+        "stderr": ""
+      },
+      "test_patch": {
+        "ok": true,
+        "stderr": ""
+      }
+    },
+    "new_reference_paths": [
+      "scripts/prepare_release.py"
+    ]
+  },
+  {
+    "instance_id": "fastapi_15589",
+    "snapshot_sha256": "ebaf671c28bccb85aa9d8a85735019b4daa6d78d541a679288c64eed88dc76f0",
+    "compressed_bytes": 316167392,
+    "git_files": 26,
+    "git_bytes": 299107159,
+    "working_tree_files": 2973,
+    "working_tree_bytes": 33485793,
+    "links": [],
+    "git_metadata": {
+      ".git/HEAD": "ref: refs/heads/main\n",
+      ".git/refs/heads/export_ref": "2ff92d4f00f415af2403a70da528bbdf77e6cf4b\n",
+      ".git/refs/heads/main": "2ff92d4f00f415af2403a70da528bbdf77e6cf4b\n"
+    },
+    "git_head_resolved": "2ff92d4f00f415af2403a70da528bbdf77e6cf4b",
+    "task_base_commit": "22b02e26f9e8c7e32bd8266e2b0ebe8bb3a0db2b",
+    "head_matches_task_base_commit": false,
+    "patch_apply_check": {
+      "patch": {
+        "ok": true,
+        "stderr": ""
+      },
+      "test_patch": {
+        "ok": true,
+        "stderr": ""
+      }
+    },
+    "new_reference_paths": []
+  },
+  {
+    "instance_id": "requests_7502",
+    "snapshot_sha256": "a7da726a17f54ea4d43d1a21e3e9f3e95bfa2787a845a18e2d30a88fcc1f53fb",
+    "compressed_bytes": 37463957,
+    "working_tree_files": 128,
+    "working_tree_bytes": 4450406,
+    "git_files": 26,
+    "git_bytes": 34644246,
+    "links": [
+      {
+        "path": "tests/certs/mtls/client/ca",
+        "target": "../../expired/ca/",
+        "type": "symlink"
+      },
+      {
+        "path": "tests/certs/valid/ca",
+        "target": "../expired/ca",
+        "type": "symlink"
+      }
+    ],
+    "git_metadata": {
+      ".git/HEAD": "ref: refs/heads/main\n",
+      ".git/refs/heads/export_ref": "ced47d0b985f67110197b488df11f54e4d355eca\n",
+      ".git/refs/heads/main": "ced47d0b985f67110197b488df11f54e4d355eca\n"
+    },
+    "git_head_resolved": "ced47d0b985f67110197b488df11f54e4d355eca",
+    "task_base_commit": "661970d171d9c3e12e4c789c4768db647d8c4da0",
+    "head_matches_task_base_commit": false,
+    "patch_apply_check": {
+      "patch": {
+        "ok": true,
+        "stderr": ""
+      },
+      "test_patch": {
+        "ok": true,
+        "stderr": ""
+      }
+    },
+    "new_reference_paths": []
+  },
+  {
+    "instance_id": "requests_7315",
+    "snapshot_sha256": "be20432ae7d54b96a5532c98ac545798bb76237376c7fd546e2275f7f19e93ac",
+    "compressed_bytes": 37602543,
+    "working_tree_files": 130,
+    "working_tree_bytes": 5191880,
+    "git_files": 26,
+    "git_bytes": 34062702,
+    "links": [
+      {
+        "path": "tests/certs/mtls/client/ca",
+        "target": "../../expired/ca/",
+        "type": "symlink"
+      },
+      {
+        "path": "tests/certs/valid/ca",
+        "target": "../expired/ca",
+        "type": "symlink"
+      }
+    ],
+    "git_metadata": {
+      ".git/HEAD": "ref: refs/heads/main\n",
+      ".git/refs/heads/export_ref": "ff2b582d029a3d50ea7bcf39744d2766b7aa99c1\n",
+      ".git/refs/heads/main": "ff2b582d029a3d50ea7bcf39744d2766b7aa99c1\n"
+    },
+    "git_head_resolved": "ff2b582d029a3d50ea7bcf39744d2766b7aa99c1",
+    "task_base_commit": "6360477c52303c9445b45fa8744b02d05a2f0905",
+    "head_matches_task_base_commit": false,
+    "patch_apply_check": {
+      "patch": {
+        "ok": true,
+        "stderr": ""
+      },
+      "test_patch": {
+        "ok": true,
+        "stderr": ""
+      }
+    },
+    "new_reference_paths": []
+  },
+  {
+    "instance_id": "rich_4006",
+    "snapshot_sha256": "37bd5fef0e5b21a62dfecc64daf4e732dfbf10233467ed5d0f781eed2e493bc4",
+    "compressed_bytes": 96611558,
+    "working_tree_files": 553,
+    "working_tree_bytes": 19743818,
+    "git_files": 26,
+    "git_bytes": 82061037,
+    "links": [],
+    "git_metadata": {
+      ".git/HEAD": "ref: refs/heads/main\n",
+      ".git/refs/heads/export_ref": "8be1ebc3f855955cbfd80030337efc8c97f02b30\n",
+      ".git/refs/heads/main": "8be1ebc3f855955cbfd80030337efc8c97f02b30\n"
+    },
+    "git_head_resolved": "8be1ebc3f855955cbfd80030337efc8c97f02b30",
+    "task_base_commit": "27701029082052c6541031b6f139097230253900",
+    "head_matches_task_base_commit": false,
+    "patch_apply_check": {
+      "patch": {
+        "ok": true,
+        "stderr": ""
+      },
+      "test_patch": {
+        "ok": true,
+        "stderr": ""
+      }
+    },
+    "new_reference_paths": []
+  },
+  {
+    "instance_id": "fastapi_14786",
+    "snapshot_sha256": "f61245555280454c043454f59f852e6fb10d5390bc7ddade0e8136684cf360d5",
+    "compressed_bytes": 248914133,
+    "git_files": 26,
+    "git_bytes": 233056679,
+    "working_tree_files": 2600,
+    "working_tree_bytes": 29607434,
+    "links": [],
+    "git_metadata": {
+      ".git/HEAD": "ref: refs/heads/main\n",
+      ".git/refs/heads/export_ref": "5fefa3b743b4bbbb67999c8c059b792c61f2f909\n",
+      ".git/refs/heads/main": "5fefa3b743b4bbbb67999c8c059b792c61f2f909\n"
+    },
+    "git_head_resolved": "5fefa3b743b4bbbb67999c8c059b792c61f2f909",
+    "task_base_commit": "eacbce24c9d299c6a28110d9fc8ac50f53cddb08",
+    "head_matches_task_base_commit": false,
+    "patch_apply_check": {
+      "patch": {
+        "ok": true,
+        "stderr": ""
+      },
+      "test_patch": {
+        "ok": true,
+        "stderr": ""
+      }
+    },
+    "new_reference_paths": []
+  },
+  {
+    "instance_id": "fastapi_14448",
+    "snapshot_sha256": "e55e18bfe8898bc48d5d4bef142df124ffeb8177195794065504d125b63b4ce6",
+    "compressed_bytes": 228973594,
+    "git_files": 26,
+    "git_bytes": 213422823,
+    "working_tree_files": 2595,
+    "working_tree_bytes": 28625416,
+    "links": [],
+    "git_metadata": {
+      ".git/HEAD": "ref: refs/heads/main\n",
+      ".git/refs/heads/export_ref": "e02e7a76e4898793d2dae84d89f8382cc3b850e9\n",
+      ".git/refs/heads/main": "e02e7a76e4898793d2dae84d89f8382cc3b850e9\n"
+    },
+    "git_head_resolved": "e02e7a76e4898793d2dae84d89f8382cc3b850e9",
+    "task_base_commit": "c57ac7bdf3613798c94caceff562a41fa16d4a2d",
+    "head_matches_task_base_commit": false,
+    "patch_apply_check": {
+      "patch": {
+        "ok": true,
+        "stderr": ""
+      },
+      "test_patch": {
+        "ok": true,
+        "stderr": ""
+      }
+    },
+    "new_reference_paths": []
+  },
+  {
+    "instance_id": "httpx_3672",
+    "snapshot_sha256": "d1afdad9b9d433ebc345968ed90c4c401ed82f5fdfd27ab82eeaf92a49d9e2ed",
+    "compressed_bytes": 1576322,
+    "git_files": 123,
+    "git_bytes": 820937,
+    "working_tree_files": 74,
+    "working_tree_bytes": 1065365,
+    "links": [],
+    "git_metadata": {
+      ".git/HEAD": "ref: refs/heads/main\n",
+      ".git/refs/heads/export_ref": "3bc07e1fffda850cf92e597a1fc328c5f1b32d47\n",
+      ".git/refs/heads/main": "3bc07e1fffda850cf92e597a1fc328c5f1b32d47\n"
+    },
+    "git_head_resolved": "3bc07e1fffda850cf92e597a1fc328c5f1b32d47",
+    "task_base_commit": "4acf5c2c37714cc63b5cf71b3e284fca83c90311",
+    "head_matches_task_base_commit": false,
+    "patch_apply_check": {
+      "patch": {
+        "ok": true,
+        "stderr": ""
+      },
+      "test_patch": {
+        "ok": true,
+        "stderr": ""
+      }
+    },
+    "new_reference_paths": []
+  },
+  {
+    "instance_id": "requests_6629",
+    "snapshot_sha256": "053f2ea73cb7b604f535ee2eabe596dae9df9d7ff54a365d62b4ff0bebab7115",
+    "compressed_bytes": 36361445,
+    "working_tree_files": 103,
+    "working_tree_bytes": 5143539,
+    "git_files": 26,
+    "git_bytes": 32809412,
+    "links": [],
+    "git_metadata": {
+      ".git/HEAD": "ref: refs/heads/main\n",
+      ".git/refs/heads/export_ref": "a94a8d3fc6c5c3490749b062094afcb7e9e95fcf\n",
+      ".git/refs/heads/main": "a94a8d3fc6c5c3490749b062094afcb7e9e95fcf\n"
+    },
+    "git_head_resolved": "a94a8d3fc6c5c3490749b062094afcb7e9e95fcf",
+    "task_base_commit": "7a13c041dbef42f9f3feb14110f02626f6892e9a",
+    "head_matches_task_base_commit": false,
+    "patch_apply_check": {
+      "patch": {
+        "ok": true,
+        "stderr": ""
+      },
+      "test_patch": {
+        "ok": true,
+        "stderr": ""
+      }
+    },
+    "new_reference_paths": []
+  },
+  {
+    "instance_id": "rich_3480",
+    "snapshot_sha256": "4641202efd1dc64cd7694fb603e0f7bc663e9fecfebf514679fe56cf7baef407",
+    "compressed_bytes": 93133075,
+    "working_tree_files": 526,
+    "working_tree_bytes": 19406684,
+    "git_files": 26,
+    "git_bytes": 78588501,
+    "links": [],
+    "git_metadata": {
+      ".git/HEAD": "ref: refs/heads/main\n",
+      ".git/refs/heads/export_ref": "190dd1d025cb37fb410c1a1bdf767bc4c93e4620\n",
+      ".git/refs/heads/main": "190dd1d025cb37fb410c1a1bdf767bc4c93e4620\n"
+    },
+    "git_head_resolved": "190dd1d025cb37fb410c1a1bdf767bc4c93e4620",
+    "task_base_commit": "9ec419154102acce7363e3958bec6c261864d7fb",
+    "head_matches_task_base_commit": false,
+    "patch_apply_check": {
+      "patch": {
+        "ok": true,
+        "stderr": ""
+      },
+      "test_patch": {
+        "ok": true,
+        "stderr": ""
+      }
+    },
+    "new_reference_paths": []
+  },
+  {
+    "instance_id": "rich_3471",
+    "snapshot_sha256": "e5741f04e126767135ac1636f15711565a9a96435882bdf0c70564bda080fb8e",
+    "compressed_bytes": 92976607,
+    "working_tree_files": 526,
+    "working_tree_bytes": 19404801,
+    "git_files": 26,
+    "git_bytes": 78433568,
+    "links": [],
+    "git_metadata": {
+      ".git/HEAD": "ref: refs/heads/main\n",
+      ".git/refs/heads/export_ref": "c89132f80bbefa139a76727445bf9c0db1580f08\n",
+      ".git/refs/heads/main": "c89132f80bbefa139a76727445bf9c0db1580f08\n"
+    },
+    "git_head_resolved": "c89132f80bbefa139a76727445bf9c0db1580f08",
+    "task_base_commit": "e2a982d5ea747f0deb7f78e8eaa5b4be7d9194cf",
+    "head_matches_task_base_commit": false,
+    "patch_apply_check": {
+      "patch": {
+        "ok": true,
+        "stderr": ""
+      },
+      "test_patch": {
+        "ok": true,
+        "stderr": ""
+      }
+    },
+    "new_reference_paths": []
+  },
+  {
+    "instance_id": "rich_3063",
+    "snapshot_sha256": "fcf1bc1b3e7399bd71c14981d31b776a12ecdd3c3d8312a655e1777eb587d5d7",
+    "compressed_bytes": 90756400,
+    "working_tree_files": 524,
+    "working_tree_bytes": 19413692,
+    "git_files": 26,
+    "git_bytes": 76188880,
+    "links": [],
+    "git_metadata": {
+      ".git/HEAD": "ref: refs/heads/main\n",
+      ".git/refs/heads/export_ref": "306b98bf14bffa86847e4778b25e2a4cf19e7903\n",
+      ".git/refs/heads/main": "306b98bf14bffa86847e4778b25e2a4cf19e7903\n"
+    },
+    "git_head_resolved": "306b98bf14bffa86847e4778b25e2a4cf19e7903",
+    "task_base_commit": "368e8ad77c95a6bef8f9d332039091d1417296bc",
+    "head_matches_task_base_commit": false,
+    "patch_apply_check": {
+      "patch": {
+        "ok": true,
+        "stderr": ""
+      },
+      "test_patch": {
+        "ok": true,
+        "stderr": ""
+      }
+    },
+    "new_reference_paths": []
+  }
+]

@@ -1,0 +1,9 @@
+test_async_inline_doc_and_invalid_source (__main__.ContextChecks.test_async_inline_doc_and_invalid_source) ... ok
+test_cli_readonly_output_and_symlinks (__main__.ContextChecks.test_cli_readonly_output_and_symlinks) ... ok
+test_empty_query_and_deadline (__main__.ContextChecks.test_empty_query_and_deadline) ... ok
+test_query_and_full_coverage (__main__.ContextChecks.test_query_and_full_coverage) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.038s
+
+OK

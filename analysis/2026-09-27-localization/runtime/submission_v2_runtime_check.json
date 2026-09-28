@@ -1,0 +1,101 @@
+{
+  "status": "passed",
+  "kind": "scripted model replay, actual ADK Runner + LiteLlm + swegemma tools + SubprocessManager; not Gemma inference",
+  "source_task": "fastapi_14786",
+  "workspace_scope": "single original source file; not official full evaluation",
+  "llm_requests": 8,
+  "tool_responses": [
+    {
+      "will_continue": null,
+      "scheduling": null,
+      "parts": null,
+      "id": "call_0",
+      "name": "read_file",
+      "response": {
+        "result": "{\"status\": \"ok\", \"filepath\": \"fastapi/security/utils.py\", \"content\": \"from typing import Optional\\n\\n\\ndef get_authorization_scheme_param(\\n    authorization_header_value: Optional[str],\\n) -> tuple[str, str]:\\n    if not authorization_header_value:\\n        return \\\"\\\", \\\"\\\"\\n    scheme, _, param = authorization_header_value.partition(\\\" \\\")\\n    return scheme, param\", \"start_line\": 1, \"end_line\": 10, \"total_lines\": 10, \"is_truncated\": false}"
+      }
+    },
+    {
+      "will_continue": null,
+      "scheduling": null,
+      "parts": null,
+      "id": "call_1",
+      "name": "run_command",
+      "response": {
+        "result": "{\"status\": \"error\", \"error_type\": \"CommandError\", \"error_message\": \"Traceback (most recent call last):\\n  File \\\"<string>\\\", line 1, in <module>\\n    import runpy; f=runpy.run_path('fastapi/security/utils.py')['get_authorization_scheme_param']; assert f('Bearer  token ')==('Bearer','token'); assert f('Bearer token')==('Bearer','token'); assert f(None)==('',''); print('3 assertions passed')\\n                                                                                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\\nAssertionError\\n\", \"details\": {\"stdout\": \"\", \"stderr\": \"Traceback (most recent call last):\\n  File \\\"<string>\\\", line 1, in <module>\\n    import runpy; f=runpy.run_path('fastapi/security/utils.py')['get_authorization_scheme_param']; assert f('Bearer  token ')==('Bearer','token'); assert f('Bearer token')==('Bearer','token'); assert f(None)==('',''); print('3 assertions passed')\\n                                                                                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\\nAssertionError\\n\", \"exit_code\": 1}}"
+      }
+    },
+    {
+      "will_continue": null,
+      "scheduling": null,
+      "parts": null,
+      "id": "call_2",
+      "name": "edit_file",
+      "response": {
+        "result": "{\"status\": \"ok\", \"filepath\": \"fastapi/security/utils.py\", \"occurrences\": 1, \"strategy\": \"exact\", \"diff\": \"--- a/fastapi/security/utils.py\\n+++ b/fastapi/security/utils.py\\n@@ -7,4 +7,4 @@\\n     if not authorization_header_value:\\n         return \\\"\\\", \\\"\\\"\\n     scheme, _, param = authorization_header_value.partition(\\\" \\\")\\n-    return scheme, param\\n+    return scheme, param.strip()\\n\", \"is_truncated\": false}"
+      }
+    },
+    {
+      "will_continue": null,
+      "scheduling": null,
+      "parts": null,
+      "id": "call_3",
+      "name": "run_command",
+      "response": {
+        "result": "{\"status\": \"ok\", \"stdout\": \"3 assertions passed\\n\", \"stderr\": \"\", \"exit_code\": 0}"
+      }
+    },
+    {
+      "will_continue": null,
+      "scheduling": null,
+      "parts": null,
+      "id": "call_4",
+      "name": "get_status",
+      "response": {
+        "result": "{\"status\": \"ok\", \"tool_calls_used\": 4, \"patch_submitted\": false, \"patch_size\": 0, \"tool_calls_remaining\": 20, \"max_tool_calls\": 24, \"time_seconds_remaining\": 178.78722729200126, \"max_time_minutes\": 3, \"agent_elapsed_seconds\": 1.2127731250002398, \"max_turns\": 32, \"command_timeout_seconds\": 45}"
+      }
+    },
+    {
+      "will_continue": null,
+      "scheduling": null,
+      "parts": null,
+      "id": "call_5",
+      "name": "run_command",
+      "response": {
+        "result": "{\"status\": \"ok\", \"stdout\": \"\", \"stderr\": \"\", \"exit_code\": 0}"
+      }
+    },
+    {
+      "will_continue": null,
+      "scheduling": null,
+      "parts": null,
+      "id": "call_6",
+      "name": "submit_patch",
+      "response": {
+        "result": "{\"status\": \"ok\", \"patch_size\": 402, \"files_changed\": 1}"
+      }
+    }
+  ],
+  "effective_request": {
+    "model": "gemma-4-31b-it-qat-w4a16-ct",
+    "temperature": 0.1,
+    "top_p": 0.95,
+    "max_tokens": null,
+    "max_completion_tokens": 3072,
+    "reasoning_effort": "low",
+    "chat_template_kwargs": {
+      "enable_thinking": true
+    }
+  },
+  "tools": [
+    "edit_file",
+    "get_status",
+    "read_file",
+    "run_command",
+    "submit_patch",
+    "write_file"
+  ],
+  "patch_bytes": 402,
+  "charged_tool_calls": 5,
+  "before_failed_after_passed": true
+}

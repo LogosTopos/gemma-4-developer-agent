@@ -1,0 +1,23 @@
+{
+  "status": "uploaded",
+  "archive": "/Users/topologyw/Documents/Codex/2026-09-26/bu-ya/outputs/2026-09-27_candidate_v4/submission.zip",
+  "sha256": "94badadcf5fbd57d1e350cfcb7be1e4ca3cd60ebdd284814ee4588c19a41e01b",
+  "bytes": 6391,
+  "files": {
+    "agent.yaml": "7c4e2e462569ef1510de18412400dfbefcf97f839f11d8c697b5c917dabcf88d",
+    "configs/sampling.yaml": "eef46f33ed3d6404e383d3549c13338b03f8b1b9afb762216c18b38962643209",
+    "eval_config.yaml": "e44f65ba47b1fc8e4d8c5c04652d4d87148c932e7ea1dc35e2a19b2411c106ec",
+    "prompts/system.md": "88b0bf48280c030304dfd488bfedb486132251f68103ac2751a4182a0240a42e",
+    "skills/repo-context/SKILL.md": "773fd50fe4a2d280d246c7b10e98e48442547fa8f3b5c7f1884bff04eca302d1",
+    "skills/repo-context/scripts/context.py": "28f2b9609863ea1c76e3608ad64a2bc1eb91b7e908f0cb3f1fe33a411ee9e8cb"
+  },
+  "model_or_budget_changes_vs_v3": false,
+  "validation": "static compile, 4 focused tests, ADK scripted-model real-tool replay passed; no real Gemma inference",
+  "selection_source_sha256": "28f2b9609863ea1c76e3608ad64a2bc1eb91b7e908f0cb3f1fe33a411ee9e8cb",
+  "experiment_report": "/Users/topologyw/Documents/Codex/2026-09-26/bu-ya/outputs/v4_experiments/\u5b9e\u9a8c\u8bf4\u660e.md",
+  "submission_id": 56606835,
+  "submission_status": "SubmissionStatus.PENDING",
+  "submission_date_utc": "2026-09-27 11:08:57.620000",
+  "public_score": "",
+  "error_description": ""
+}

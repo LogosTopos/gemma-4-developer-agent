@@ -1,0 +1,121 @@
+{
+  "split": "train",
+  "source_sha256": "28f2b9609863ea1c76e3608ad64a2bc1eb91b7e908f0cb3f1fe33a411ee9e8cb",
+  "timing_scope": "fresh indexing and ranking on loaded original source, cold word cache; excludes disk scan and process startup",
+  "metrics": {
+    "v3": {
+      "tasks": 82,
+      "eligible": 81,
+      "hit@1": 0.43209876543209874,
+      "hit@3": 0.6790123456790124,
+      "hit@5": 0.7530864197530864,
+      "hit@10": 0.8271604938271605,
+      "recall@5": 0.6372232020380169,
+      "median_seconds": 0.6118472915004531,
+      "p95_seconds": 0.6920291669957805,
+      "median_output_chars": 7711.0,
+      "max_output_chars": 9393
+    },
+    "v4": {
+      "tasks": 82,
+      "eligible": 81,
+      "hit@1": 0.4567901234567901,
+      "hit@3": 0.6790123456790124,
+      "hit@5": 0.8395061728395061,
+      "hit@10": 0.8641975308641975,
+      "recall@5": 0.7309425827944347,
+      "median_seconds": 0.6143436040001689,
+      "p95_seconds": 0.7401377499991213,
+      "median_output_chars": 3820.5,
+      "max_output_chars": 4521
+    }
+  },
+  "parity_mismatches": [
+    {
+      "id": "rich_4077",
+      "old": [
+        "rich/file_proxy.py",
+        "rich/_null_file.py",
+        "rich/live.py",
+        "rich/progress.py",
+        "rich/jupyter.py",
+        "rich/console.py",
+        "rich/pretty.py",
+        "benchmarks/__init__.py",
+        "benchmarks/benchmarks.py",
+        "benchmarks/snippets.py"
+      ],
+      "new": [
+        "rich/file_proxy.py",
+        "rich/_null_file.py",
+        "rich/live.py",
+        "rich/progress.py",
+        "rich/jupyter.py",
+        "rich/console.py",
+        "rich/pretty.py"
+      ]
+    },
+    {
+      "id": "rich_3944",
+      "old": [
+        "rich/box.py",
+        "rich/panel.py",
+        "rich/table.py",
+        "benchmarks/__init__.py",
+        "benchmarks/benchmarks.py",
+        "benchmarks/snippets.py",
+        "docs/source/conf.py",
+        "examples/attrs.py",
+        "examples/bars.py",
+        "examples/columns.py"
+      ],
+      "new": [
+        "rich/box.py",
+        "rich/panel.py",
+        "rich/table.py"
+      ]
+    },
+    {
+      "id": "rich_3675",
+      "old": [
+        "rich/console.py",
+        "rich/box.py",
+        "rich/diagnose.py",
+        "rich/text.py",
+        "rich/scope.py",
+        "rich/_win32_console.py",
+        "rich/syntax.py",
+        "benchmarks/__init__.py",
+        "benchmarks/benchmarks.py",
+        "benchmarks/snippets.py"
+      ],
+      "new": [
+        "rich/console.py",
+        "rich/box.py",
+        "rich/diagnose.py",
+        "rich/text.py",
+        "rich/scope.py",
+        "rich/_win32_console.py",
+        "rich/syntax.py"
+      ]
+    },
+    {
+      "id": "rich_3063",
+      "old": [
+        "rich/pretty.py",
+        "benchmarks/__init__.py",
+        "benchmarks/benchmarks.py",
+        "benchmarks/snippets.py",
+        "docs/source/conf.py",
+        "examples/attrs.py",
+        "examples/bars.py",
+        "examples/columns.py",
+        "examples/cp_progress.py",
+        "examples/downloader.py"
+      ],
+      "new": [
+        "rich/pretty.py"
+      ]
+    }
+  ]
+}

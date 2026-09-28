@@ -1,0 +1,47 @@
+{
+  "as_of_utc": "2026-09-28T13:05:15.511922+00:00",
+  "source": "Kaggle CLI competitions submissions",
+  "submissions": [
+    {
+      "ref": "56641493",
+      "fileName": "submission.zip",
+      "date": "2026-09-28 13:01:54.390000",
+      "description": "D0 Roman public 0.12 baseline reproduction; exact unmodified ZIP f3534769cd8c",
+      "status": "SubmissionStatus.PENDING",
+      "publicScore": "",
+      "privateScore": ""
+    },
+    {
+      "ref": "56606835",
+      "fileName": "submission.zip",
+      "date": "2026-09-27 11:08:57.620000",
+      "description": "v4 compact context tool",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.06",
+      "privateScore": ""
+    },
+    {
+      "ref": "56575713",
+      "fileName": "submission.zip",
+      "date": "2026-09-26 09:30:18.050000",
+      "description": "v2 focused single agent; 3min/24 tools; low reasoning; explicit evaluation budget",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.05",
+      "privateScore": ""
+    },
+    {
+      "ref": "56521006",
+      "fileName": "submission.zip",
+      "date": "2026-09-24 12:17:41.330000",
+      "description": "baseline v1: single LlmAgent + locator sub-agent, 9 builtin tools, action-first prompt",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "",
+      "privateScore": ""
+    }
+  ],
+  "notes": [
+    "COMPLETE without score does not mean successful evaluation.",
+    "56521006 historical error: requested more CPU/GPU/TPU resources than available.",
+    "56641493 is exact reproduction of downloaded public Roman ZIP, not a guarantee of author score."
+  ]
+}

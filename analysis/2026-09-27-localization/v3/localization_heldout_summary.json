@@ -1,0 +1,79 @@
+{
+  "split": "heldout",
+  "code_sha256": "79ac4f5cf04e1c2937d418909010560617d5812bb5b37e2c3470a6c3fece69bc",
+  "note": "file baseline is deterministic 9/26 retrieval baseline, not actual v2 model behavior; gold used only for metrics",
+  "variants": {
+    "file_baseline": {
+      "tasks": 14,
+      "eligible_existing_python_targets": 14,
+      "new_or_non_python_only": 0,
+      "hit_at_1": 0.7857142857142857,
+      "hit_at_3": 0.8571428571428571,
+      "hit_at_5": 1.0,
+      "hit_at_10": 1.0,
+      "macro_recall_at_5": 0.9081632653061225,
+      "median_seconds": 0.0249
+    },
+    "imports": {
+      "tasks": 14,
+      "eligible_existing_python_targets": 14,
+      "new_or_non_python_only": 0,
+      "hit_at_1": 0.8571428571428571,
+      "hit_at_3": 0.9285714285714286,
+      "hit_at_5": 1.0,
+      "hit_at_10": 1.0,
+      "macro_recall_at_5": 0.9336734693877551,
+      "median_seconds": 0.08410000000000001
+    }
+  },
+  "by_repo": {
+    "encode/httpx": {
+      "file_baseline": {
+        "tasks": 1,
+        "eligible_existing_python_targets": 1,
+        "new_or_non_python_only": 0,
+        "hit_at_1": 1.0,
+        "hit_at_3": 1.0,
+        "hit_at_5": 1.0,
+        "hit_at_10": 1.0,
+        "macro_recall_at_5": 0.7142857142857143,
+        "median_seconds": 0.0128
+      },
+      "imports": {
+        "tasks": 1,
+        "eligible_existing_python_targets": 1,
+        "new_or_non_python_only": 0,
+        "hit_at_1": 1.0,
+        "hit_at_3": 1.0,
+        "hit_at_5": 1.0,
+        "hit_at_10": 1.0,
+        "macro_recall_at_5": 0.5714285714285714,
+        "median_seconds": 0.0774
+      }
+    },
+    "psf/requests": {
+      "file_baseline": {
+        "tasks": 13,
+        "eligible_existing_python_targets": 13,
+        "new_or_non_python_only": 0,
+        "hit_at_1": 0.7692307692307693,
+        "hit_at_3": 0.8461538461538461,
+        "hit_at_5": 1.0,
+        "hit_at_10": 1.0,
+        "macro_recall_at_5": 0.9230769230769231,
+        "median_seconds": 0.0249
+      },
+      "imports": {
+        "tasks": 13,
+        "eligible_existing_python_targets": 13,
+        "new_or_non_python_only": 0,
+        "hit_at_1": 0.8461538461538461,
+        "hit_at_3": 0.9230769230769231,
+        "hit_at_5": 1.0,
+        "hit_at_10": 1.0,
+        "macro_recall_at_5": 0.9615384615384616,
+        "median_seconds": 0.0844
+      }
+    }
+  }
+}

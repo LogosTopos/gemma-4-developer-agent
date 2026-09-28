@@ -1,0 +1,145 @@
+{
+  "split": "dev",
+  "code_sha256": "e817598ce17415040304af299bd76e8a05ae5ffed39b0467abe0e1a3ecfeed6c",
+  "note": "file baseline is deterministic 9/26 retrieval baseline, not actual v2 model behavior; gold used only for metrics",
+  "variants": {
+    "file_baseline": {
+      "tasks": 115,
+      "eligible_existing_python_targets": 114,
+      "new_or_non_python_only": 1,
+      "hit_at_1": 0.21929824561403508,
+      "hit_at_3": 0.39473684210526316,
+      "hit_at_5": 0.5263157894736842,
+      "hit_at_10": 0.6929824561403509,
+      "macro_recall_at_5": 0.44492481203007517,
+      "median_seconds": 0.0909
+    },
+    "lexical": {
+      "tasks": 115,
+      "eligible_existing_python_targets": 114,
+      "new_or_non_python_only": 1,
+      "hit_at_1": 0.3684210526315789,
+      "hit_at_3": 0.6228070175438597,
+      "hit_at_5": 0.7017543859649122,
+      "hit_at_10": 0.7894736842105263,
+      "macro_recall_at_5": 0.5972988025619604,
+      "median_seconds": 0.5611
+    },
+    "symbol": {
+      "tasks": 115,
+      "eligible_existing_python_targets": 114,
+      "new_or_non_python_only": 1,
+      "hit_at_1": 0.38596491228070173,
+      "hit_at_3": 0.6666666666666666,
+      "hit_at_5": 0.7456140350877193,
+      "hit_at_10": 0.8157894736842105,
+      "macro_recall_at_5": 0.6252993595098858,
+      "median_seconds": 0.5949
+    },
+    "imports": {
+      "tasks": 115,
+      "eligible_existing_python_targets": 114,
+      "new_or_non_python_only": 1,
+      "hit_at_1": 0.42105263157894735,
+      "hit_at_3": 0.6842105263157895,
+      "hit_at_5": 0.7631578947368421,
+      "hit_at_10": 0.8245614035087719,
+      "macro_recall_at_5": 0.6476677805625174,
+      "median_seconds": 0.5966
+    }
+  },
+  "by_repo": {
+    "Textualize/rich": {
+      "file_baseline": {
+        "tasks": 48,
+        "eligible_existing_python_targets": 48,
+        "new_or_non_python_only": 0,
+        "hit_at_1": 0.20833333333333334,
+        "hit_at_3": 0.4375,
+        "hit_at_5": 0.5625,
+        "hit_at_10": 0.6666666666666666,
+        "macro_recall_at_5": 0.5046296296296297,
+        "median_seconds": 0.0505
+      },
+      "lexical": {
+        "tasks": 48,
+        "eligible_existing_python_targets": 48,
+        "new_or_non_python_only": 0,
+        "hit_at_1": 0.3958333333333333,
+        "hit_at_3": 0.6458333333333334,
+        "hit_at_5": 0.7083333333333334,
+        "hit_at_10": 0.75,
+        "macro_recall_at_5": 0.6122685185185185,
+        "median_seconds": 0.28785
+      },
+      "symbol": {
+        "tasks": 48,
+        "eligible_existing_python_targets": 48,
+        "new_or_non_python_only": 0,
+        "hit_at_1": 0.5208333333333334,
+        "hit_at_3": 0.7291666666666666,
+        "hit_at_5": 0.7291666666666666,
+        "hit_at_10": 0.7708333333333334,
+        "macro_recall_at_5": 0.6354166666666666,
+        "median_seconds": 0.29755
+      },
+      "imports": {
+        "tasks": 48,
+        "eligible_existing_python_targets": 48,
+        "new_or_non_python_only": 0,
+        "hit_at_1": 0.5416666666666666,
+        "hit_at_3": 0.7291666666666666,
+        "hit_at_5": 0.7708333333333334,
+        "hit_at_10": 0.7916666666666666,
+        "macro_recall_at_5": 0.6875,
+        "median_seconds": 0.2986
+      }
+    },
+    "fastapi/fastapi": {
+      "file_baseline": {
+        "tasks": 67,
+        "eligible_existing_python_targets": 66,
+        "new_or_non_python_only": 1,
+        "hit_at_1": 0.22727272727272727,
+        "hit_at_3": 0.36363636363636365,
+        "hit_at_5": 0.5,
+        "hit_at_10": 0.7121212121212122,
+        "macro_recall_at_5": 0.40150312650312653,
+        "median_seconds": 0.1092
+      },
+      "lexical": {
+        "tasks": 67,
+        "eligible_existing_python_targets": 66,
+        "new_or_non_python_only": 1,
+        "hit_at_1": 0.3484848484848485,
+        "hit_at_3": 0.6060606060606061,
+        "hit_at_5": 0.696969696969697,
+        "hit_at_10": 0.8181818181818182,
+        "macro_recall_at_5": 0.5864117364117364,
+        "median_seconds": 0.5881
+      },
+      "symbol": {
+        "tasks": 67,
+        "eligible_existing_python_targets": 66,
+        "new_or_non_python_only": 1,
+        "hit_at_1": 0.2878787878787879,
+        "hit_at_3": 0.6212121212121212,
+        "hit_at_5": 0.7575757575757576,
+        "hit_at_10": 0.8484848484848485,
+        "macro_recall_at_5": 0.6179413179413179,
+        "median_seconds": 0.6245
+      },
+      "imports": {
+        "tasks": 67,
+        "eligible_existing_python_targets": 66,
+        "new_or_non_python_only": 1,
+        "hit_at_1": 0.3333333333333333,
+        "hit_at_3": 0.6515151515151515,
+        "hit_at_5": 0.7575757575757576,
+        "hit_at_10": 0.8484848484848485,
+        "macro_recall_at_5": 0.6186988936988937,
+        "median_seconds": 0.626
+      }
+    }
+  }
+}

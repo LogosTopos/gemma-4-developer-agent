@@ -1,0 +1,39 @@
+{
+  "prior": {
+    "file": 0.5,
+    "exact": 0.2,
+    "test_graph": 0,
+    "role": true,
+    "prior": true
+  },
+  "prior_diverse": {
+    "file": 0.5,
+    "exact": 0.2,
+    "test_graph": 0,
+    "role": true,
+    "prior": true,
+    "diverse": true
+  },
+  "prior_legacy": {
+    "file": 0.5,
+    "exact": 0.2,
+    "test_graph": 0,
+    "role": true,
+    "prior": true,
+    "legacy": 1
+  },
+  "prior_no_role": {
+    "file": 0.5,
+    "exact": 0.2,
+    "test_graph": 0,
+    "role": false,
+    "prior": true
+  },
+  "prior_no_file": {
+    "file": 0,
+    "exact": 0.2,
+    "test_graph": 0,
+    "role": true,
+    "prior": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "roman": {
+    "experiment_id": "D0-ROMAN-EXACT",
+    "source_url": "https://www.kaggle.com/code/romanrozen/gemma-eda-baseline-for-a-start-lb-top-1",
+    "source_artifact": "submission.zip",
+    "sha256": "f3534769cd8c7761b8ae83722b0f2fd381c0349587a10e84bd63e0554a4a7aa4",
+    "bytes": 3277,
+    "modifications": [],
+    "purpose": "Exact public artifact reproduction; author/public baseline score 0.12 is not a guaranteed outcome",
+    "prepared_at": "2026-09-28T13:01:51.644519+00:00",
+    "submission_id": 56641493,
+    "submission_date_utc": "2026-09-28 13:01:54.390000",
+    "status": "SubmissionStatus.PENDING",
+    "public_score": ""
+  },
+  "black_cat_anchor": {
+    "url": "https://www.kaggle.com/code/lucifer19/black-cat-swe-agent-pack-instinct",
+    "artifact": "anchor_submission.zip",
+    "sha256": "18b20200ba4a42f99ecaa0c889664ead4b78848835317bc114f4e4095f759916",
+    "bytes": 4690,
+    "author_reported_score": 0.1,
+    "score_linkage": "Author claim, matching published hash; not scoring-side artifact retrieval"
+  }
+}

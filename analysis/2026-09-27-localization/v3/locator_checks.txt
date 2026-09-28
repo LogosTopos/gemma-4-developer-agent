@@ -1,0 +1,9 @@
+test_async_and_duplicate_locations (__main__.LocatorChecks.test_async_and_duplicate_locations) ... ok
+test_cli_readonly_ignores_symlinks_and_caps_output (__main__.LocatorChecks.test_cli_readonly_ignores_symlinks_and_caps_output) ... ok
+test_no_execution_and_invalid_source (__main__.LocatorChecks.test_no_execution_and_invalid_source) ... ok
+test_tests_are_separate_and_import_boost_works (__main__.LocatorChecks.test_tests_are_separate_and_import_boost_works) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.037s
+
+OK

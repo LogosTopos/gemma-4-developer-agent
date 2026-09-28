@@ -1,0 +1,34 @@
+{
+  "source": "/Users/topologyw/Documents/Kaggles/gemma_4",
+  "tasks_sha256": "e4b3fd60f69dbc2b9213e54eeb9636db78aefe92c1d06269d73d9f5f8f3c8ad6",
+  "tasks": 129,
+  "repos": {
+    "fastapi/fastapi": 67,
+    "psf/requests": 13,
+    "Textualize/rich": 48,
+    "encode/httpx": 1
+  },
+  "splits": {
+    "dev": 115,
+    "holdout_requests": 13,
+    "ood_httpx": 1
+  },
+  "unique_repo_commits": 127,
+  "nonempty_hints": 0,
+  "empty_patches": 0,
+  "empty_test_patches": 0,
+  "short_clean_statements_under_200": 53,
+  "html_templates": 9,
+  "asset_counts": {
+    "snapshots": 129,
+    "graphs": 256,
+    "embeddings": 256
+  },
+  "asset_bytes": {
+    "snapshots": 21496844379,
+    "graphs": 847169344,
+    "embeddings": 938420063
+  },
+  "all_graph_aliases_identical": true,
+  "all_embedding_aliases_identical": true
+}

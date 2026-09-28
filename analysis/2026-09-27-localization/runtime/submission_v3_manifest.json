@@ -1,0 +1,26 @@
+{
+  "status": "candidate_only_not_uploaded",
+  "date": "2026-09-27",
+  "baseline_submission_id": 56575713,
+  "baseline_public_score": 0.05,
+  "archive": "/Users/topologyw/Documents/Codex/2026-09-26/bu-ya/outputs/2026-09-27_candidate/submission.zip",
+  "sha256": "00e7a959c03e3ff69f53c3497073dc53e410dbdeb8687190f529b3e5c15254c2",
+  "compressed_bytes": 7008,
+  "unpacked_bytes": 13686,
+  "files": {
+    "agent.yaml": "0d7fb5a874ce5a0e94d65a6292f6b6507ee07f8d250c913c1126d4c72a823028",
+    "configs/sampling.yaml": "eef46f33ed3d6404e383d3549c13338b03f8b1b9afb762216c18b38962643209",
+    "eval_config.yaml": "e44f65ba47b1fc8e4d8c5c04652d4d87148c932e7ea1dc35e2a19b2411c106ec",
+    "prompts/system.md": "dd8904023060a34a6bc98e6a6825422c33e8f45985cbf80003d9fbe113430124",
+    "skills/repo-locator/SKILL.md": "dae3d3b1808ff59a0191fba0c97cc9e638fc5e089206a52c4dcc50a81808b9d5",
+    "skills/repo-locator/scripts/locate.py": "79ac4f5cf04e1c2937d418909010560617d5812bb5b37e2c3470a6c3fece69bc"
+  },
+  "validation": "static compile, four locator checks, actual ADK tool replay with scripted model responses passed; no real Gemma inference",
+  "budgets": {
+    "max_time_minutes": 4.5,
+    "max_tool_calls": 40,
+    "max_turns": 64,
+    "timeout_seconds": 60,
+    "max_output_tokens": 8192
+  }
+}

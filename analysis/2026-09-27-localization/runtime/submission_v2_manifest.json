@@ -1,0 +1,20 @@
+{
+  "archive": "/Users/topologyw/Documents/Codex/2026-09-26/bu-ya/outputs/submission_v2.zip",
+  "sha256": "fc55222df026baa6a3a7b5a6023919be0a4694b1f884a76ba729b334b6544000",
+  "compressed_bytes": 3160,
+  "unpacked_bytes": 5443,
+  "files": [
+    "agent.yaml",
+    "configs/sampling.yaml",
+    "eval_config.yaml",
+    "prompts/system.md"
+  ],
+  "competition": "gemma-4-developer-agent",
+  "design": "single agent, 6 workspace tools, low reasoning, max 3072 output tokens, 3 minutes / 24 tool calls / 32 turns per task",
+  "validation": "Static compilation and scripted-model real-tool replay passed; subsequently scored 0.05 on Kaggle submission 56575713",
+  "submission_status": "SubmissionStatus.COMPLETE",
+  "submission_id": 56575713,
+  "uploaded_basename": "submission.zip",
+  "public_score": 0.05,
+  "error_description": ""
+}

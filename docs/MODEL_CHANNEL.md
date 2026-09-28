@@ -1,3 +1,5 @@
+> **历史分析（保留原文，2026-09-28 已有更正）。** 本文中的提交限制、预算、评分和运行能力判断可能已过期；执行前以 [当前研究状态](../docs/RESEARCH_STATUS.md) 与 [实验交接计划](../docs/EXPERIMENT_HANDOFF.md) 为准。skill Python 可提交、外层 scorer 读取四个 eval_config 字段、模拟回放不是模型能力实测。
+
 # 模型与环境通道
 
 ## 一、评测用的是哪个模型

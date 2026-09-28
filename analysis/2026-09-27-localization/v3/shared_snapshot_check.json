@@ -1,0 +1,12 @@
+[
+  {
+    "instance_id": "rich_3894",
+    "reused": "rich_3882",
+    "identical_python_corpus": true
+  },
+  {
+    "instance_id": "requests_6589",
+    "reused": "requests_6629",
+    "identical_python_corpus": true
+  }
+]

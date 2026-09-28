@@ -1,0 +1,26 @@
+{
+  "as_of": "2026-09-28",
+  "official_ct_config_url": "https://huggingface.co/google/gemma-4-31B-it-qat-w4a16-ct/raw/main/config.json",
+  "official_ct_config_sha256": "b100d85e571c25b688e82919d819253063a1defb0e6cee3b9b1c1fbad99bd0c2",
+  "qat_unquantized_metadata": {
+    "total_parameters": 32682372656,
+    "total_size": 62546177752
+  },
+  "qat_unquantized_url": "https://huggingface.co/google/gemma-4-31B-it-qat-q4_0-unquantized",
+  "ct_training_loader_docs": "https://huggingface.co/docs/transformers/main/quantization/compressed_tensors",
+  "unsloth_docs": "https://unsloth.ai/docs/models/gemma-4/train",
+  "unsloth_example_url": "https://www.kaggle.com/code/danielhanchen/gemma4-31b-unsloth",
+  "observed_unsloth_example": {
+    "model_name": "unsloth/gemma-4-31B-it",
+    "load_in_4bit": true,
+    "max_seq_length": 8192,
+    "device_map": "balanced",
+    "comment": "Use 2x Tesla T4s on Kaggle",
+    "batch_size": 1,
+    "lora_rank": 8,
+    "not_official_ct_checkpoint": true
+  },
+  "executed_training": false,
+  "downloaded_weights": false,
+  "measured_gpu_memory": null
+}

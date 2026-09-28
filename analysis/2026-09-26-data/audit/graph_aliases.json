@@ -1,0 +1,2453 @@
+[
+  {
+    "instance_id": "fastapi_15661",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_15661.json",
+        "data/graphs/fastapi_ee22a4b8ca46dcce26c8c183afc4992a888d8be2.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_15661.npz",
+        "data/embeddings/fastapi_ee22a4b8ca46dcce26c8c183afc4992a888d8be2.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_15588",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_15588.json",
+        "data/graphs/fastapi_cb83b83dcf78eab4ea17d504db5abcda705fbdc4.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_15588.npz",
+        "data/embeddings/fastapi_cb83b83dcf78eab4ea17d504db5abcda705fbdc4.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_15589",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_15589.json",
+        "data/graphs/fastapi_22b02e26f9e8c7e32bd8266e2b0ebe8bb3a0db2b.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_15589.npz",
+        "data/embeddings/fastapi_22b02e26f9e8c7e32bd8266e2b0ebe8bb3a0db2b.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_15030",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_15030.json",
+        "data/graphs/fastapi_48d58ae3b6ef4ded5a4794618c00345667256d98.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_15030.npz",
+        "data/embeddings/fastapi_48d58ae3b6ef4ded5a4794618c00345667256d98.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14962",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14962.json",
+        "data/graphs/fastapi_1e78a36b7310003f0ff634627d8a7bc53c6ccdee.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14962.npz",
+        "data/embeddings/fastapi_1e78a36b7310003f0ff634627d8a7bc53c6ccdee.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_15280",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_15280.json",
+        "data/graphs/fastapi_6ee87478d821171139264cd9cd17cbd2232934ce.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_15280.npz",
+        "data/embeddings/fastapi_6ee87478d821171139264cd9cd17cbd2232934ce.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14964",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14964.json",
+        "data/graphs/fastapi_bc06e4296d588f39f38c7ac2fc96d3913c565962.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14964.npz",
+        "data/embeddings/fastapi_bc06e4296d588f39f38c7ac2fc96d3913c565962.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_15023",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_15023.json",
+        "data/graphs/fastapi_c0836dc1b7f4ba91e9563c8c4ccd0ebe655bc914.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_15023.npz",
+        "data/embeddings/fastapi_c0836dc1b7f4ba91e9563c8c4ccd0ebe655bc914.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14986",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14986.json",
+        "data/graphs/fastapi_2f9c914d440e99fe8b62646b51e4d24c5bcd858b.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14986.npz",
+        "data/embeddings/fastapi_2f9c914d440e99fe8b62646b51e4d24c5bcd858b.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14978",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14978.json",
+        "data/graphs/fastapi_94a1ee749e63591e6e275b726a66e07a25f6c407.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14978.npz",
+        "data/embeddings/fastapi_94a1ee749e63591e6e275b726a66e07a25f6c407.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "requests_7505",
+    "graphs": {
+      "paths": [
+        "data/graphs/requests_7505.json",
+        "data/graphs/requests_6f205ff422bccd5e4c4fc0b64c5f3e7df5181db6.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/requests_7505.npz",
+        "data/embeddings/requests_6f205ff422bccd5e4c4fc0b64c5f3e7df5181db6.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "requests_7502",
+    "graphs": {
+      "paths": [
+        "data/graphs/requests_7502.json",
+        "data/graphs/requests_661970d171d9c3e12e4c789c4768db647d8c4da0.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/requests_7502.npz",
+        "data/embeddings/requests_661970d171d9c3e12e4c789c4768db647d8c4da0.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "requests_7433",
+    "graphs": {
+      "paths": [
+        "data/graphs/requests_7433.json",
+        "data/graphs/requests_0b401c76b6e80a4eecf3c690085b2553f6e261ca.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/requests_7433.npz",
+        "data/embeddings/requests_0b401c76b6e80a4eecf3c690085b2553f6e261ca.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "requests_7427",
+    "graphs": {
+      "paths": [
+        "data/graphs/requests_7427.json",
+        "data/graphs/requests_b684dcb9bbf3aa557d1238e72062c4a29737dd1c.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/requests_7427.npz",
+        "data/embeddings/requests_b684dcb9bbf3aa557d1238e72062c4a29737dd1c.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "requests_7315",
+    "graphs": {
+      "paths": [
+        "data/graphs/requests_7315.json",
+        "data/graphs/requests_6360477c52303c9445b45fa8744b02d05a2f0905.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/requests_7315.npz",
+        "data/embeddings/requests_6360477c52303c9445b45fa8744b02d05a2f0905.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "requests_7328",
+    "graphs": {
+      "paths": [
+        "data/graphs/requests_7328.json",
+        "data/graphs/requests_cbce031327be4f1b4b5fd041ff4dcaa8efa2ce53.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/requests_7328.npz",
+        "data/embeddings/requests_cbce031327be4f1b4b5fd041ff4dcaa8efa2ce53.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "requests_7309",
+    "graphs": {
+      "paths": [
+        "data/graphs/requests_7309.json",
+        "data/graphs/requests_7407309c8a8a73aa2f4337184025d440bbedab7a.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/requests_7309.npz",
+        "data/embeddings/requests_7407309c8a8a73aa2f4337184025d440bbedab7a.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "requests_7205",
+    "graphs": {
+      "paths": [
+        "data/graphs/requests_7205.json",
+        "data/graphs/requests_1b40fdd004bfc8ba5301bcf8a6908264e9b6b877.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/requests_7205.npz",
+        "data/embeddings/requests_1b40fdd004bfc8ba5301bcf8a6908264e9b6b877.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_4070",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_4070.json",
+        "data/graphs/rich_fc41075a3206d2a5fd846c6f41c4d2becab814fa.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_4070.npz",
+        "data/embeddings/rich_fc41075a3206d2a5fd846c6f41c4d2becab814fa.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_4077",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_4077.json",
+        "data/graphs/rich_58ac15120fe254886c10d6253667733c83604cb4.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_4077.npz",
+        "data/embeddings/rich_58ac15120fe254886c10d6253667733c83604cb4.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_4079",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_4079.json",
+        "data/graphs/rich_19c67b9a3479841e9133bea94607c89ee931d3fc.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_4079.npz",
+        "data/embeddings/rich_19c67b9a3479841e9133bea94607c89ee931d3fc.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_4076",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_4076.json",
+        "data/graphs/rich_9cb198944f8184df92217efc8b20d3fffa4b4fa0.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_4076.npz",
+        "data/embeddings/rich_9cb198944f8184df92217efc8b20d3fffa4b4fa0.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_4075",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_4075.json",
+        "data/graphs/rich_1fc7cb210ae52eb099df39818ddb9569e5b14c7b.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_4075.npz",
+        "data/embeddings/rich_1fc7cb210ae52eb099df39818ddb9569e5b14c7b.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_4006",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_4006.json",
+        "data/graphs/rich_27701029082052c6541031b6f139097230253900.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_4006.npz",
+        "data/embeddings/rich_27701029082052c6541031b6f139097230253900.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14258",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14258.json",
+        "data/graphs/fastapi_e94028ab60d18080810910352bc9129e8046c92d.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14258.npz",
+        "data/embeddings/fastapi_e94028ab60d18080810910352bc9129e8046c92d.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14851",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14851.json",
+        "data/graphs/fastapi_8e50c55fd90c4433ddc9096ff439da9498a8314a.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14851.npz",
+        "data/embeddings/fastapi_8e50c55fd90c4433ddc9096ff439da9498a8314a.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14873",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14873.json",
+        "data/graphs/fastapi_cd31576d5704b6aef1bdadc43770238cd88aad2b.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14873.npz",
+        "data/embeddings/fastapi_cd31576d5704b6aef1bdadc43770238cd88aad2b.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_13920",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_13920.json",
+        "data/graphs/fastapi_0dd42b746e17d33a74ea267a62eace9ccdccf345.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_13920.npz",
+        "data/embeddings/fastapi_0dd42b746e17d33a74ea267a62eace9ccdccf345.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14794",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14794.json",
+        "data/graphs/fastapi_464c359bb03f7ba72330198cc9f44df36194837d.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14794.npz",
+        "data/embeddings/fastapi_464c359bb03f7ba72330198cc9f44df36194837d.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14786",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14786.json",
+        "data/graphs/fastapi_eacbce24c9d299c6a28110d9fc8ac50f53cddb08.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14786.npz",
+        "data/embeddings/fastapi_eacbce24c9d299c6a28110d9fc8ac50f53cddb08.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14492",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14492.json",
+        "data/graphs/fastapi_a456e92a21d5b94a67d6d0fd070218df09444443.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14492.npz",
+        "data/embeddings/fastapi_a456e92a21d5b94a67d6d0fd070218df09444443.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14479",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14479.json",
+        "data/graphs/fastapi_2b212ddd7604891d42e2ffbafe764c334230bdb7.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14479.npz",
+        "data/embeddings/fastapi_2b212ddd7604891d42e2ffbafe764c334230bdb7.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14463",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14463.json",
+        "data/graphs/fastapi_f2687dc1bb01f4cb62eee90e656b61c38c2aaf6a.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14463.npz",
+        "data/embeddings/fastapi_f2687dc1bb01f4cb62eee90e656b61c38c2aaf6a.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_12942",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_12942.json",
+        "data/graphs/fastapi_27c0f7e75fc0ce26ca75295d455eb36f0ca033d3.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_12942.npz",
+        "data/embeddings/fastapi_27c0f7e75fc0ce26ca75295d455eb36f0ca033d3.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14099",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14099.json",
+        "data/graphs/fastapi_861b22c40897a03d2d7e5926923d962121ed5e2e.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14099.npz",
+        "data/embeddings/fastapi_861b22c40897a03d2d7e5926923d962121ed5e2e.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14609",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14609.json",
+        "data/graphs/fastapi_1b3bea8b6be2220cc1544653ea785d2134fcb35b.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14609.npz",
+        "data/embeddings/fastapi_1b3bea8b6be2220cc1544653ea785d2134fcb35b.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14372",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14372.json",
+        "data/graphs/fastapi_566e3157a5517784c741dbf36e39687af326fe90.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14372.npz",
+        "data/embeddings/fastapi_566e3157a5517784c741dbf36e39687af326fe90.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14349",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14349.json",
+        "data/graphs/fastapi_eaf611f9ee56de4f16c837d4f487a4b9fca507c4.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14349.npz",
+        "data/embeddings/fastapi_eaf611f9ee56de4f16c837d4f487a4b9fca507c4.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14512",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14512.json",
+        "data/graphs/fastapi_1fcec88ad2df4541b6a81c4786c4d039dc745e1e.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14512.npz",
+        "data/embeddings/fastapi_1fcec88ad2df4541b6a81c4786c4d039dc745e1e.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14487",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14487.json",
+        "data/graphs/fastapi_4a98a66778987648d2195155c9cbe0824d67b02a.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14487.npz",
+        "data/embeddings/fastapi_4a98a66778987648d2195155c9cbe0824d67b02a.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_11355",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_11355.json",
+        "data/graphs/fastapi_811fa898752e7f5697733a2958ff79ad8dfb5276.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_11355.npz",
+        "data/embeddings/fastapi_811fa898752e7f5697733a2958ff79ad8dfb5276.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14485",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14485.json",
+        "data/graphs/fastapi_60699f306b67dc1f4918ebea17f04d7a48cda645.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14485.npz",
+        "data/embeddings/fastapi_60699f306b67dc1f4918ebea17f04d7a48cda645.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14482",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14482.json",
+        "data/graphs/fastapi_71a17b5932e38bcf798fcd05c5bb384e6d4db5bf.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14482.npz",
+        "data/embeddings/fastapi_71a17b5932e38bcf798fcd05c5bb384e6d4db5bf.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14306",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14306.json",
+        "data/graphs/fastapi_08b09e5236e315b6f10265ed229f130d4befb4ea.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14306.npz",
+        "data/embeddings/fastapi_08b09e5236e315b6f10265ed229f130d4befb4ea.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14458",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14458.json",
+        "data/graphs/fastapi_516169428d2fa189d34318ebc469a082c49c1189.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14458.npz",
+        "data/embeddings/fastapi_516169428d2fa189d34318ebc469a082c49c1189.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14459",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14459.json",
+        "data/graphs/fastapi_eb1d50479ba0ac873e4ffa08a824b1d822ca3a17.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14459.npz",
+        "data/embeddings/fastapi_eb1d50479ba0ac873e4ffa08a824b1d822ca3a17.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14448",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14448.json",
+        "data/graphs/fastapi_c57ac7bdf3613798c94caceff562a41fa16d4a2d.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14448.npz",
+        "data/embeddings/fastapi_c57ac7bdf3613798c94caceff562a41fa16d4a2d.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14455",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14455.json",
+        "data/graphs/fastapi_603df6e36f59cc4a3e189f506b8f36d1e816c3ac.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14455.npz",
+        "data/embeddings/fastapi_603df6e36f59cc4a3e189f506b8f36d1e816c3ac.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_9753",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_9753.json",
+        "data/graphs/fastapi_aee8e78078e8a7f2736d3cab7a1cb7197356951c.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_9753.npz",
+        "data/embeddings/fastapi_aee8e78078e8a7f2736d3cab7a1cb7197356951c.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14430",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14430.json",
+        "data/graphs/fastapi_cff2236dacb7aedcaf2d2de0873cfbc9bb2b897a.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14430.npz",
+        "data/embeddings/fastapi_cff2236dacb7aedcaf2d2de0873cfbc9bb2b897a.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_5077",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_5077.json",
+        "data/graphs/fastapi_930b27e5fa32ce150ddcea61f0c913435ae71c83.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_5077.npz",
+        "data/embeddings/fastapi_930b27e5fa32ce150ddcea61f0c913435ae71c83.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_9555",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_9555.json",
+        "data/graphs/fastapi_4976568fc7cb7501729d8f84d946cde1e91299cd.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_9555.npz",
+        "data/embeddings/fastapi_4976568fc7cb7501729d8f84d946cde1e91299cd.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14361",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14361.json",
+        "data/graphs/fastapi_5265c4f5cb4d8fb4fb5015bccf1a6de8f3fc6044.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14361.npz",
+        "data/embeddings/fastapi_5265c4f5cb4d8fb4fb5015bccf1a6de8f3fc6044.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_13207",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_13207.json",
+        "data/graphs/fastapi_5126e099bdda51f261fd5a101b5f914991d31897.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_13207.npz",
+        "data/embeddings/fastapi_5126e099bdda51f261fd5a101b5f914991d31897.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14360",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14360.json",
+        "data/graphs/fastapi_eead41bf4cf8587b4d86091dd3eabbb85796e717.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14360.npz",
+        "data/embeddings/fastapi_eead41bf4cf8587b4d86091dd3eabbb85796e717.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14356",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14356.json",
+        "data/graphs/fastapi_6cf40df24d1d199fd25d034fc87fcae284fc23a2.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14356.npz",
+        "data/embeddings/fastapi_6cf40df24d1d199fd25d034fc87fcae284fc23a2.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_5624",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_5624.json",
+        "data/graphs/fastapi_c6487ed632056e450d844846a1b63be551a3cbc6.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_5624.npz",
+        "data/embeddings/fastapi_c6487ed632056e450d844846a1b63be551a3cbc6.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14419",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14419.json",
+        "data/graphs/fastapi_63d7a2b9978258d13dfc22664e60fc2110d30e20.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14419.npz",
+        "data/embeddings/fastapi_63d7a2b9978258d13dfc22664e60fc2110d30e20.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14301",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14301.json",
+        "data/graphs/fastapi_972a967d5d3fa24d450637c36c6b7ad1f1d8c1b6.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14301.npz",
+        "data/embeddings/fastapi_972a967d5d3fa24d450637c36c6b7ad1f1d8c1b6.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14262",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14262.json",
+        "data/graphs/fastapi_425a4c5bb1d1a8e00007e82e5188fc4d30585767.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14262.npz",
+        "data/embeddings/fastapi_425a4c5bb1d1a8e00007e82e5188fc4d30585767.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14266",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14266.json",
+        "data/graphs/fastapi_2cf04ee30db9df2db04a5b1e0d2c625dfbf1a211.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14266.npz",
+        "data/embeddings/fastapi_2cf04ee30db9df2db04a5b1e0d2c625dfbf1a211.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14246",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14246.json",
+        "data/graphs/fastapi_7132a690461c2367f22556eb87c2b5eb7d9cfb45.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14246.npz",
+        "data/embeddings/fastapi_7132a690461c2367f22556eb87c2b5eb7d9cfb45.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14186",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14186.json",
+        "data/graphs/fastapi_6e49dc029541aaa896fa63c47647ccd3f066df67.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14186.npz",
+        "data/embeddings/fastapi_6e49dc029541aaa896fa63c47647ccd3f066df67.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_9425",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_9425.json",
+        "data/graphs/fastapi_0bdc3ca3732e3742e094bea2b320e9774659ac38.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_9425.npz",
+        "data/embeddings/fastapi_0bdc3ca3732e3742e094bea2b320e9774659ac38.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_13713",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_13713.json",
+        "data/graphs/fastapi_5c1f87c56387a96dbdddb2b1c4ec9ba48dcebc4e.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_13713.npz",
+        "data/embeddings/fastapi_5c1f87c56387a96dbdddb2b1c4ec9ba48dcebc4e.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14077",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14077.json",
+        "data/graphs/fastapi_16d75d90eb96976a57b94cc24e4018859cd54c4d.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14077.npz",
+        "data/embeddings/fastapi_16d75d90eb96976a57b94cc24e4018859cd54c4d.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3718",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3718.json",
+        "data/graphs/rich_7d36119f8378b36129502c3281a7faffef837e02.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3718.npz",
+        "data/embeddings/rich_7d36119f8378b36129502c3281a7faffef837e02.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3934",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3934.json",
+        "data/graphs/rich_6764b24739b580c0c32ff5ef0b971ed4cfcf4f75.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3934.npz",
+        "data/embeddings/rich_6764b24739b580c0c32ff5ef0b971ed4cfcf4f75.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3953",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3953.json",
+        "data/graphs/rich_1d402e0c59f8765e420a5a4440eb2fca7465d1ae.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3953.npz",
+        "data/embeddings/rich_1d402e0c59f8765e420a5a4440eb2fca7465d1ae.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3944",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3944.json",
+        "data/graphs/rich_36fe3f7ca9becca4777861d5e6e625f5a4a37545.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3944.npz",
+        "data/embeddings/rich_36fe3f7ca9becca4777861d5e6e625f5a4a37545.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3942",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3942.json",
+        "data/graphs/rich_c595fa95068dd2c5095d25446b2f0571bc0b3995.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3942.npz",
+        "data/embeddings/rich_c595fa95068dd2c5095d25446b2f0571bc0b3995.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3938",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3938.json",
+        "data/graphs/rich_05ff970926cbd0b5d0acb6fc18cdbd1fc971e582.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3938.npz",
+        "data/embeddings/rich_05ff970926cbd0b5d0acb6fc18cdbd1fc971e582.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3882",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3882.json",
+        "data/graphs/rich_4d6d631a3d2deddf8405522d4b8c976a6d35726c.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3882.npz",
+        "data/embeddings/rich_4d6d631a3d2deddf8405522d4b8c976a6d35726c.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3894",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3894.json",
+        "data/graphs/rich_4d6d631a3d2deddf8405522d4b8c976a6d35726c.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3894.npz",
+        "data/embeddings/rich_4d6d631a3d2deddf8405522d4b8c976a6d35726c.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3935",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3935.json",
+        "data/graphs/rich_fe55a131c2780fa856464ad04d7d6dc8a1079b72.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3935.npz",
+        "data/embeddings/rich_fe55a131c2780fa856464ad04d7d6dc8a1079b72.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3905",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3905.json",
+        "data/graphs/rich_96dd4b60e3a7c647c43a85ad375afa690b3bb85b.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3905.npz",
+        "data/embeddings/rich_96dd4b60e3a7c647c43a85ad375afa690b3bb85b.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3930",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3930.json",
+        "data/graphs/rich_53757bc234cf18977cade41a5b64f3abaccb0b85.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3930.npz",
+        "data/embeddings/rich_53757bc234cf18977cade41a5b64f3abaccb0b85.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "httpx_3672",
+    "graphs": {
+      "paths": [
+        "data/graphs/httpx_3672.json",
+        "data/graphs/httpx_4acf5c2c37714cc63b5cf71b3e284fca83c90311.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/httpx_3672.npz",
+        "data/embeddings/httpx_4acf5c2c37714cc63b5cf71b3e284fca83c90311.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14791",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14791.json",
+        "data/graphs/fastapi_08924400c2c75533685148b029defcf6913f1def.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14791.npz",
+        "data/embeddings/fastapi_08924400c2c75533685148b029defcf6913f1def.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_15800",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_15800.json",
+        "data/graphs/fastapi_f1d750fddad90e2faad6c3cc5c85c7687b787e89.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_15800.npz",
+        "data/embeddings/fastapi_f1d750fddad90e2faad6c3cc5c85c7687b787e89.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_15785",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_15785.json",
+        "data/graphs/fastapi_202b2d2f5f331db9102b5dbcef071a9e09bed10e.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_15785.npz",
+        "data/embeddings/fastapi_202b2d2f5f331db9102b5dbcef071a9e09bed10e.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14371",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14371.json",
+        "data/graphs/fastapi_3fe6522aaed4d36d6a38175a4a8137ee0fc62451.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14371.npz",
+        "data/embeddings/fastapi_3fe6522aaed4d36d6a38175a4a8137ee0fc62451.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14605",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14605.json",
+        "data/graphs/fastapi_6b53786f626db95a42fd0f66afd360bab161f4b1.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14605.npz",
+        "data/embeddings/fastapi_6b53786f626db95a42fd0f66afd360bab161f4b1.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_15763",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_15763.json",
+        "data/graphs/fastapi_9a9c4ad5d06f5fe8ee6775a5aeaa2f83c854f263.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_15763.npz",
+        "data/embeddings/fastapi_9a9c4ad5d06f5fe8ee6775a5aeaa2f83c854f263.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14583",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14583.json",
+        "data/graphs/fastapi_6513d4daa16a536d17743de6a292f49bd06388a4.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14583.npz",
+        "data/embeddings/fastapi_6513d4daa16a536d17743de6a292f49bd06388a4.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_15745",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_15745.json",
+        "data/graphs/fastapi_016ab760faba1813ba235d5582a014a58bd2f417.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_15745.npz",
+        "data/embeddings/fastapi_016ab760faba1813ba235d5582a014a58bd2f417.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14297",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14297.json",
+        "data/graphs/fastapi_3c54a8f07b70cdd40e3d81ea319e9fcccd2481d2.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14297.npz",
+        "data/embeddings/fastapi_3c54a8f07b70cdd40e3d81ea319e9fcccd2481d2.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14303",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14303.json",
+        "data/graphs/fastapi_740ec2787b25e59f7aa9e3df1db09d4489c22718.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14303.npz",
+        "data/embeddings/fastapi_740ec2787b25e59f7aa9e3df1db09d4489c22718.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_13537",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_13537.json",
+        "data/graphs/fastapi_3b4b5ab8c819dce27fbaf0aa0a9c74b7f3255ec0.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_13537.npz",
+        "data/embeddings/fastapi_3b4b5ab8c819dce27fbaf0aa0a9c74b7f3255ec0.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14953",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14953.json",
+        "data/graphs/fastapi_d2c17b603d2f986d5f3800d3bf24acba8e1f485b.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14953.npz",
+        "data/embeddings/fastapi_d2c17b603d2f986d5f3800d3bf24acba8e1f485b.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_13786",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_13786.json",
+        "data/graphs/fastapi_e2354a0a063f2fcb890ec568f1a98e136a39fd25.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_13786.npz",
+        "data/embeddings/fastapi_e2354a0a063f2fcb890ec568f1a98e136a39fd25.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_14616",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_14616.json",
+        "data/graphs/fastapi_54f8aeeb9a15e4d5a12401ec5549840966df0087.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_14616.npz",
+        "data/embeddings/fastapi_54f8aeeb9a15e4d5a12401ec5549840966df0087.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "fastapi_11194",
+    "graphs": {
+      "paths": [
+        "data/graphs/fastapi_11194.json",
+        "data/graphs/fastapi_a7f2dbe976bf72703376f0cd04487bfc4a849f83.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/fastapi_11194.npz",
+        "data/embeddings/fastapi_a7f2dbe976bf72703376f0cd04487bfc4a849f83.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "requests_6757",
+    "graphs": {
+      "paths": [
+        "data/graphs/requests_6757.json",
+        "data/graphs/requests_0e322af87745eff34caffe4df68456ebc20d9068.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/requests_6757.npz",
+        "data/embeddings/requests_0e322af87745eff34caffe4df68456ebc20d9068.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "requests_6629",
+    "graphs": {
+      "paths": [
+        "data/graphs/requests_6629.json",
+        "data/graphs/requests_7a13c041dbef42f9f3feb14110f02626f6892e9a.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/requests_6629.npz",
+        "data/embeddings/requests_7a13c041dbef42f9f3feb14110f02626f6892e9a.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "requests_6644",
+    "graphs": {
+      "paths": [
+        "data/graphs/requests_6644.json",
+        "data/graphs/requests_382fc2c0c6c0ef0874bc65bc1175f97c073e5086.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/requests_6644.npz",
+        "data/embeddings/requests_382fc2c0c6c0ef0874bc65bc1175f97c073e5086.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "requests_6589",
+    "graphs": {
+      "paths": [
+        "data/graphs/requests_6589.json",
+        "data/graphs/requests_7a13c041dbef42f9f3feb14110f02626f6892e9a.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/requests_6589.npz",
+        "data/embeddings/requests_7a13c041dbef42f9f3feb14110f02626f6892e9a.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "requests_6592",
+    "graphs": {
+      "paths": [
+        "data/graphs/requests_6592.json",
+        "data/graphs/requests_0b4d494192de489701d3a2e32acef8fb5d3f042e.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/requests_6592.npz",
+        "data/embeddings/requests_0b4d494192de489701d3a2e32acef8fb5d3f042e.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3180",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3180.json",
+        "data/graphs/rich_e76f3c3ea78481342e21a7b3328075462ab69c2b.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3180.npz",
+        "data/embeddings/rich_e76f3c3ea78481342e21a7b3328075462ab69c2b.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3486",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3486.json",
+        "data/graphs/rich_d0de442c08df8793c5ff36d9ad322ca5c47fc38c.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3486.npz",
+        "data/embeddings/rich_d0de442c08df8793c5ff36d9ad322ca5c47fc38c.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3777",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3777.json",
+        "data/graphs/rich_49117ced6648a432d85951f72dce777038f6ce09.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3777.npz",
+        "data/embeddings/rich_49117ced6648a432d85951f72dce777038f6ce09.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3468",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3468.json",
+        "data/graphs/rich_ae15db600976a7999d21653002f338d0761b180c.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3468.npz",
+        "data/embeddings/rich_ae15db600976a7999d21653002f338d0761b180c.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3782",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3782.json",
+        "data/graphs/rich_3b70db5a2997de191f7db3e422dbe4da35ca1c95.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3782.npz",
+        "data/embeddings/rich_3b70db5a2997de191f7db3e422dbe4da35ca1c95.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3772",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3772.json",
+        "data/graphs/rich_2809954800af15b4027364cebf82390fe23dc194.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3772.npz",
+        "data/embeddings/rich_2809954800af15b4027364cebf82390fe23dc194.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3296",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3296.json",
+        "data/graphs/rich_fde5d6eee3b0437eaecdcbf6f8b11aeab3a5d503.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3296.npz",
+        "data/embeddings/rich_fde5d6eee3b0437eaecdcbf6f8b11aeab3a5d503.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3675",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3675.json",
+        "data/graphs/rich_edc6b0a39b6df1c0e26d409bb5c5eda7149b2de6.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3675.npz",
+        "data/embeddings/rich_edc6b0a39b6df1c0e26d409bb5c5eda7149b2de6.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3676",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3676.json",
+        "data/graphs/rich_2b5d648b2c62960deb6439f4204ed8fa6eb3cf7b.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3676.npz",
+        "data/embeddings/rich_2b5d648b2c62960deb6439f4204ed8fa6eb3cf7b.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3518",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3518.json",
+        "data/graphs/rich_5ba9cb56e68dcdf2db50c214d8f1412c8a50761b.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3518.npz",
+        "data/embeddings/rich_5ba9cb56e68dcdf2db50c214d8f1412c8a50761b.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3535",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3535.json",
+        "data/graphs/rich_0f2f51b872d14588de3a65968f5cdde6fb5694a3.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3535.npz",
+        "data/embeddings/rich_0f2f51b872d14588de3a65968f5cdde6fb5694a3.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3521",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3521.json",
+        "data/graphs/rich_66074922edabeac684434b4d87ee994fb97b0627.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3521.npz",
+        "data/embeddings/rich_66074922edabeac684434b4d87ee994fb97b0627.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3506",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3506.json",
+        "data/graphs/rich_4101991898ee7a09fe1706daca24af5e1e054862.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3506.npz",
+        "data/embeddings/rich_4101991898ee7a09fe1706daca24af5e1e054862.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3480",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3480.json",
+        "data/graphs/rich_9ec419154102acce7363e3958bec6c261864d7fb.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3480.npz",
+        "data/embeddings/rich_9ec419154102acce7363e3958bec6c261864d7fb.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3472",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3472.json",
+        "data/graphs/rich_b6f2f7aa5b27f612f391cd28212aff51ad0d42d1.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3472.npz",
+        "data/embeddings/rich_b6f2f7aa5b27f612f391cd28212aff51ad0d42d1.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3454",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3454.json",
+        "data/graphs/rich_e1e6d745f670ff3df6b8f47377c0a4006cb74066.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3454.npz",
+        "data/embeddings/rich_e1e6d745f670ff3df6b8f47377c0a4006cb74066.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3471",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3471.json",
+        "data/graphs/rich_e2a982d5ea747f0deb7f78e8eaa5b4be7d9194cf.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3471.npz",
+        "data/embeddings/rich_e2a982d5ea747f0deb7f78e8eaa5b4be7d9194cf.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3470",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3470.json",
+        "data/graphs/rich_0ba607dc080c9f102b5ae5346bcdb70d6e9c969d.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3470.npz",
+        "data/embeddings/rich_0ba607dc080c9f102b5ae5346bcdb70d6e9c969d.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3469",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3469.json",
+        "data/graphs/rich_c478588f3c228a4e86741a057c42b452d7bc6bce.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3469.npz",
+        "data/embeddings/rich_c478588f3c228a4e86741a057c42b452d7bc6bce.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3052",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3052.json",
+        "data/graphs/rich_7a168a27c5097805b3bafa495f35e3955004ff4a.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3052.npz",
+        "data/embeddings/rich_7a168a27c5097805b3bafa495f35e3955004ff4a.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3278",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3278.json",
+        "data/graphs/rich_4c5d305bb902ce97011666ada19e48d0b27b49e1.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3278.npz",
+        "data/embeddings/rich_4c5d305bb902ce97011666ada19e48d0b27b49e1.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_2943",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_2943.json",
+        "data/graphs/rich_610fd75c433c3dfcd9c296e8b91363979127b9fa.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_2943.npz",
+        "data/embeddings/rich_610fd75c433c3dfcd9c296e8b91363979127b9fa.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_2725",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_2725.json",
+        "data/graphs/rich_577def22dd83b999c5937cb2bf2ed49600943325.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_2725.npz",
+        "data/embeddings/rich_577def22dd83b999c5937cb2bf2ed49600943325.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3105",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3105.json",
+        "data/graphs/rich_9f620dc50c0008c35e9f8493f198e6e593574a70.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3105.npz",
+        "data/embeddings/rich_9f620dc50c0008c35e9f8493f198e6e593574a70.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3130",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3130.json",
+        "data/graphs/rich_720800e6930d85ad027b1e9bd0cbb96b5e994ce3.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3130.npz",
+        "data/embeddings/rich_720800e6930d85ad027b1e9bd0cbb96b5e994ce3.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3043",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3043.json",
+        "data/graphs/rich_8a616de8e25db3c93abaaa220c493d80878de69d.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3043.npz",
+        "data/embeddings/rich_8a616de8e25db3c93abaaa220c493d80878de69d.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3067",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3067.json",
+        "data/graphs/rich_1ad6f73a4d1d3b40ac3f879feccfaad66412bd1d.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3067.npz",
+        "data/embeddings/rich_1ad6f73a4d1d3b40ac3f879feccfaad66412bd1d.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3006",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3006.json",
+        "data/graphs/rich_0c8bb032ad3b54a32fdb8a43f5ab457c8cd6dcb1.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3006.npz",
+        "data/embeddings/rich_0c8bb032ad3b54a32fdb8a43f5ab457c8cd6dcb1.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3064",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3064.json",
+        "data/graphs/rich_01b85ac116c4635b6ddb8b488be8254be6df2a84.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3064.npz",
+        "data/embeddings/rich_01b85ac116c4635b6ddb8b488be8254be6df2a84.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3063",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3063.json",
+        "data/graphs/rich_368e8ad77c95a6bef8f9d332039091d1417296bc.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3063.npz",
+        "data/embeddings/rich_368e8ad77c95a6bef8f9d332039091d1417296bc.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  },
+  {
+    "instance_id": "rich_3061",
+    "graphs": {
+      "paths": [
+        "data/graphs/rich_3061.json",
+        "data/graphs/rich_aca9467ec6a482b3bed1ba7d2e3de72271c5f817.json"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    },
+    "embeddings": {
+      "paths": [
+        "data/embeddings/rich_3061.npz",
+        "data/embeddings/rich_aca9467ec6a482b3bed1ba7d2e3de72271c5f817.npz"
+      ],
+      "all_present": true,
+      "same_sha256": true
+    }
+  }
+]

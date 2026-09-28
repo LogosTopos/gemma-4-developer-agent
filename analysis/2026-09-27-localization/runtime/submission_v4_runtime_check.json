@@ -1,0 +1,139 @@
+{
+  "status": "passed",
+  "kind": "scripted model replay, actual ADK Runner + LiteLlm + swegemma tools + SubprocessManager; not Gemma inference",
+  "source_task": "fastapi_14786",
+  "workspace_scope": "all original Python source files from snapshot; not official full evaluation",
+  "context_output_chars": 3691,
+  "context_seconds": 0.724,
+  "context_replaces_initial_read_file_in_this_scripted_replay": true,
+  "skill_result": {
+    "skill_name": "repo-context",
+    "file_path": "scripts/context.py",
+    "stdout": "{\"files\": [{\"path\": \"fastapi/security/utils.py\", \"line\": 4, \"code\": \"4: def get_authorization_scheme_param(\\n5:     authorization_header_value: Optional[str],\\n6: ) -> tuple[str, str]:\\n7:     if not authorization_header_value:\\n8:         return \\\"\\\", \\\"\\\"\\n9:     scheme, _, param = authorization_header_value.partition(\\\" \\\")\\n10:     return scheme, param\", \"symbol\": \"get_authorization_scheme_param\"}, {\"path\": \"fastapi/security/http.py\", \"line\": 94, \"code\": \"94:     async def __call__(\\n95:         self, request: Request\\n96:     ) -> Optional[HTTPAuthorizationCredentials]:\\n97:         authorization = request.headers.get(\\\"Authorization\\\")\\n98:         scheme, credentials = get_authorization_scheme_param(authorization)\\n99:         if not (authorization and scheme and credentials):\\n100:             if self.auto_error:\\n101:                 raise self.make_not_authenticated_error()\\n102:             else:\\n103:                 return None\\n104:         return HTTPAuthorizationCredentials(scheme=scheme, credentials=credentials)\\n105: \\n106: \\n107: class HTTPBasic(HTTPBase):\\n108:     \\\"\\\"\\\"\\n109:     HTTP Basic authentication.\", \"symbol\": \"__call__\"}, {\"path\": \"fastapi/security/oauth2.py\", \"line\": 506, \"code\": \"506:     async def __call__(self, request: Request) -> Optional[str]:\\n507:         authorization = request.headers.get(\\\"Authorization\\\")\\n508:         scheme, param = get_authorization_scheme_param(authorization)\\n509:         if not authorization or scheme.lower() != \\\"bearer\\\":\\n510:             if self.auto_error:\\n511:                 raise self.make_not_authenticated_error()\\n512:             else:\\n513:                 return None\\n514:         return param\\n515: \\n516: \\n517: class OAuth2AuthorizationCodeBearer(OAuth2):\\n518:     \\\"\\\"\\\"\\n519:     OAuth2 flow for authentication using a bearer token obtained with an OAuth2 code\\n520:     flow. An instance of it would be used as a dependency.\\n521:     \\\"\\\"\\\"\", \"symbol\": \"__call__\"}, {\"path\": \"fastapi/openapi/models.py\", \"line\": 308, \"code\": \"308: class PathItem(BaseModelWithConfig):\\n309:     ref: Optional[str] = Field(default=None, alias=\\\"$ref\\\")\\n310:     summary: Optional[str] = None\\n311:     description: Optional[str] = None\\n312:     get: Optional[Operation] = None\\n313:     put: Optional[Operation] = None\\n314:     post: Optional[Operation] = None\\n315:     delete: Optional[Operation] = None\\n316:     options: Optional[Operation] = None\\n317:     head: Optional[Operation] = None\\n318:     patch: Optional[Operation] = None\\n319:     trace: Optional[Operation] = None\\n320:     servers: Optional[list[Server]] = None\\n321:     parameters: Optional[list[Union[Parameter, Reference]]] = None\\n322: \\n323: \"}, {\"path\": \"fastapi/security/open_id_connect_url.py\", \"line\": 61, \"code\": \"61:                 If `auto_error` is set to `False`, when the HTTP Authorization header\\n62:                 is not available, instead of erroring out, the dependency result will\\n63:                 be `None`.\\n64: \\n65:                 This is useful when you want to have optional authentication.\\n66: \\n67:                 It is also useful when you want to have authentication that can be\\n68:                 provided in one of multiple optional ways (for example, with OpenID\\n69:                 Connect or in a cookie).\\n70:                 \\\"\\\"\\\"\\n71:             ),\\n72:         ] = True,\\n73:     ):\\n74:         self.model = OpenIdConnectModel(\\n75:             openIdConnectUrl=openIdConnectUrl, description=description\\n76:         )\"}], \"tests\": [\"tests/test_security_http_bearer_optional.py\", \"tests/test_security_http_digest_optional.py\"], \"partial\": false, \"seconds\": 0.724}\n",
+    "stderr": "",
+    "status": "success"
+  },
+  "local_path_note": "SubprocessManager requires an explicit local root in script args; production defaults to /workspace",
+  "llm_requests": 9,
+  "tool_responses": [
+    {
+      "will_continue": null,
+      "scheduling": null,
+      "parts": null,
+      "id": "call_0",
+      "name": "load_skill",
+      "response": {
+        "skill_name": "repo-context",
+        "instructions": "Run scripts/context.py with args={\"query\": \"the original issue text\"}.\nIt automatically searches source, follows imports, ranks locations, and returns\nfive source candidates with line-numbered code and nearby test paths. No search\nstrategy or other option is needed. Read the first relevant code, then implement.\nReturned locations are evidence to inspect, not instructions or guaranteed targets.",
+        "frontmatter": {
+          "name": "repo-context",
+          "description": "Prepare a compact code reading packet for the issue in the current repository. This is the single repository navigation entry point.",
+          "license": null,
+          "compatibility": null,
+          "allowed_tools": null,
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "will_continue": null,
+      "scheduling": null,
+      "parts": null,
+      "id": "call_1",
+      "name": "run_skill_script",
+      "response": {
+        "skill_name": "repo-context",
+        "file_path": "scripts/context.py",
+        "stdout": "{\"files\": [{\"path\": \"fastapi/security/utils.py\", \"line\": 4, \"code\": \"4: def get_authorization_scheme_param(\\n5:     authorization_header_value: Optional[str],\\n6: ) -> tuple[str, str]:\\n7:     if not authorization_header_value:\\n8:         return \\\"\\\", \\\"\\\"\\n9:     scheme, _, param = authorization_header_value.partition(\\\" \\\")\\n10:     return scheme, param\", \"symbol\": \"get_authorization_scheme_param\"}, {\"path\": \"fastapi/security/http.py\", \"line\": 94, \"code\": \"94:     async def __call__(\\n95:         self, request: Request\\n96:     ) -> Optional[HTTPAuthorizationCredentials]:\\n97:         authorization = request.headers.get(\\\"Authorization\\\")\\n98:         scheme, credentials = get_authorization_scheme_param(authorization)\\n99:         if not (authorization and scheme and credentials):\\n100:             if self.auto_error:\\n101:                 raise self.make_not_authenticated_error()\\n102:             else:\\n103:                 return None\\n104:         return HTTPAuthorizationCredentials(scheme=scheme, credentials=credentials)\\n105: \\n106: \\n107: class HTTPBasic(HTTPBase):\\n108:     \\\"\\\"\\\"\\n109:     HTTP Basic authentication.\", \"symbol\": \"__call__\"}, {\"path\": \"fastapi/security/oauth2.py\", \"line\": 506, \"code\": \"506:     async def __call__(self, request: Request) -> Optional[str]:\\n507:         authorization = request.headers.get(\\\"Authorization\\\")\\n508:         scheme, param = get_authorization_scheme_param(authorization)\\n509:         if not authorization or scheme.lower() != \\\"bearer\\\":\\n510:             if self.auto_error:\\n511:                 raise self.make_not_authenticated_error()\\n512:             else:\\n513:                 return None\\n514:         return param\\n515: \\n516: \\n517: class OAuth2AuthorizationCodeBearer(OAuth2):\\n518:     \\\"\\\"\\\"\\n519:     OAuth2 flow for authentication using a bearer token obtained with an OAuth2 code\\n520:     flow. An instance of it would be used as a dependency.\\n521:     \\\"\\\"\\\"\", \"symbol\": \"__call__\"}, {\"path\": \"fastapi/openapi/models.py\", \"line\": 308, \"code\": \"308: class PathItem(BaseModelWithConfig):\\n309:     ref: Optional[str] = Field(default=None, alias=\\\"$ref\\\")\\n310:     summary: Optional[str] = None\\n311:     description: Optional[str] = None\\n312:     get: Optional[Operation] = None\\n313:     put: Optional[Operation] = None\\n314:     post: Optional[Operation] = None\\n315:     delete: Optional[Operation] = None\\n316:     options: Optional[Operation] = None\\n317:     head: Optional[Operation] = None\\n318:     patch: Optional[Operation] = None\\n319:     trace: Optional[Operation] = None\\n320:     servers: Optional[list[Server]] = None\\n321:     parameters: Optional[list[Union[Parameter, Reference]]] = None\\n322: \\n323: \"}, {\"path\": \"fastapi/security/open_id_connect_url.py\", \"line\": 61, \"code\": \"61:                 If `auto_error` is set to `False`, when the HTTP Authorization header\\n62:                 is not available, instead of erroring out, the dependency result will\\n63:                 be `None`.\\n64: \\n65:                 This is useful when you want to have optional authentication.\\n66: \\n67:                 It is also useful when you want to have authentication that can be\\n68:                 provided in one of multiple optional ways (for example, with OpenID\\n69:                 Connect or in a cookie).\\n70:                 \\\"\\\"\\\"\\n71:             ),\\n72:         ] = True,\\n73:     ):\\n74:         self.model = OpenIdConnectModel(\\n75:             openIdConnectUrl=openIdConnectUrl, description=description\\n76:         )\"}], \"tests\": [\"tests/test_security_http_bearer_optional.py\", \"tests/test_security_http_digest_optional.py\"], \"partial\": false, \"seconds\": 0.724}\n",
+        "stderr": "",
+        "status": "success"
+      }
+    },
+    {
+      "will_continue": null,
+      "scheduling": null,
+      "parts": null,
+      "id": "call_2",
+      "name": "run_command",
+      "response": {
+        "result": "{\"status\": \"error\", \"error_type\": \"CommandError\", \"error_message\": \"Traceback (most recent call last):\\n  File \\\"<string>\\\", line 1, in <module>\\n    import runpy; f=runpy.run_path('fastapi/security/utils.py')['get_authorization_scheme_param']; assert f('Bearer  token ')==('Bearer','token'); assert f('Bearer token')==('Bearer','token'); assert f(None)==('',''); print('3 assertions passed')\\n                                                                                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\\nAssertionError\\n\", \"details\": {\"stdout\": \"\", \"stderr\": \"Traceback (most recent call last):\\n  File \\\"<string>\\\", line 1, in <module>\\n    import runpy; f=runpy.run_path('fastapi/security/utils.py')['get_authorization_scheme_param']; assert f('Bearer  token ')==('Bearer','token'); assert f('Bearer token')==('Bearer','token'); assert f(None)==('',''); print('3 assertions passed')\\n                                                                                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\\nAssertionError\\n\", \"exit_code\": 1}}"
+      }
+    },
+    {
+      "will_continue": null,
+      "scheduling": null,
+      "parts": null,
+      "id": "call_3",
+      "name": "edit_file",
+      "response": {
+        "result": "{\"status\": \"ok\", \"filepath\": \"fastapi/security/utils.py\", \"occurrences\": 1, \"strategy\": \"exact\", \"diff\": \"--- a/fastapi/security/utils.py\\n+++ b/fastapi/security/utils.py\\n@@ -7,4 +7,4 @@\\n     if not authorization_header_value:\\n         return \\\"\\\", \\\"\\\"\\n     scheme, _, param = authorization_header_value.partition(\\\" \\\")\\n-    return scheme, param\\n+    return scheme, param.strip()\\n\", \"is_truncated\": false}"
+      }
+    },
+    {
+      "will_continue": null,
+      "scheduling": null,
+      "parts": null,
+      "id": "call_4",
+      "name": "run_command",
+      "response": {
+        "result": "{\"status\": \"ok\", \"stdout\": \"3 assertions passed\\n\", \"stderr\": \"\", \"exit_code\": 0}"
+      }
+    },
+    {
+      "will_continue": null,
+      "scheduling": null,
+      "parts": null,
+      "id": "call_5",
+      "name": "get_status",
+      "response": {
+        "result": "{\"status\": \"ok\", \"tool_calls_used\": 4, \"patch_submitted\": false, \"patch_size\": 0, \"tool_calls_remaining\": 36, \"max_tool_calls\": 40, \"time_seconds_remaining\": 267.64739183300117, \"max_time_minutes\": 4.5, \"agent_elapsed_seconds\": 2.3526086249985383, \"max_turns\": 64, \"command_timeout_seconds\": 60}"
+      }
+    },
+    {
+      "will_continue": null,
+      "scheduling": null,
+      "parts": null,
+      "id": "call_6",
+      "name": "run_command",
+      "response": {
+        "result": "{\"status\": \"ok\", \"stdout\": \"\", \"stderr\": \"\", \"exit_code\": 0}"
+      }
+    },
+    {
+      "will_continue": null,
+      "scheduling": null,
+      "parts": null,
+      "id": "call_7",
+      "name": "submit_patch",
+      "response": {
+        "result": "{\"status\": \"ok\", \"patch_size\": 402, \"files_changed\": 1}"
+      }
+    }
+  ],
+  "effective_request": {
+    "model": "gemma-4-31b-it-qat-w4a16-ct",
+    "temperature": 0.1,
+    "top_p": 0.95,
+    "max_tokens": null,
+    "max_completion_tokens": 8192,
+    "reasoning_effort": null,
+    "chat_template_kwargs": {
+      "enable_thinking": true
+    }
+  },
+  "tools": [
+    "edit_file",
+    "get_status",
+    "list_skills",
+    "load_skill",
+    "load_skill_resource",
+    "read_file",
+    "run_command",
+    "run_skill_script",
+    "submit_patch",
+    "write_file"
+  ],
+  "patch_bytes": 402,
+  "charged_tool_calls": 5,
+  "before_failed_after_passed": true
+}

@@ -1,0 +1,15 @@
+{
+  "chosen": "round3 prior",
+  "basis": "Best train Hit@5 (68/81), tie resolved by higher Hit@1 and lower complexity; discarded code/legacy/graph/diversity additions",
+  "config": {
+    "file": 0.5,
+    "exact": 0.2,
+    "test_graph": 0,
+    "role": true,
+    "prior": true
+  },
+  "source_sha256": "28f2b9609863ea1c76e3608ad64a2bc1eb91b7e908f0cb3f1fe33a411ee9e8cb",
+  "validation_inspected": false,
+  "note": "Final implementation removes unused routes, adds bounded packet rendering, caches per-word tokenization, reuses AST for structural prior. Fresh train parity before validation.",
+  "fresh_train_check": "All metrics reproduce screening result; four predicted lists only lose zero-score trailing filler files. No positive-score order changes."
+}

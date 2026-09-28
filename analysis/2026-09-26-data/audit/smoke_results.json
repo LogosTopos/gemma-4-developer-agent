@@ -1,0 +1,108 @@
+[
+  {
+    "instance_id": "requests_7315",
+    "materialization": {
+      "instance_id": "requests_7315",
+      "workspace": "/Users/topologyw/Documents/Codex/2026-09-26/bu-ya/work/reference_smoke_clean/requests_7315",
+      "snapshot": "/Users/topologyw/Documents/Kaggles/gemma_4/data/snapshots/requests_7315.tgz",
+      "members_extracted": 156,
+      "git_members_removed": 38,
+      "baseline_policy": "archive working tree, fresh git history; no gold patch or hidden test patch",
+      "declared_base_commit": "6360477c52303c9445b45fa8744b02d05a2f0905"
+    },
+    "kind": "public test_patch target file; without repository conftest/plugins",
+    "command": [
+      "/Users/topologyw/Documents/Kaggles/gemma_4/.venv/bin/python",
+      "-m",
+      "pytest",
+      "--noconftest",
+      "-c",
+      "/dev/null",
+      "-o",
+      "addopts=",
+      "--rootdir",
+      "/Users/topologyw/Documents/Codex/2026-09-26/bu-ya/work/reference_smoke_clean/requests_7315",
+      "-p",
+      "no:cacheprovider",
+      "tests/test_adapters.py",
+      "-q"
+    ],
+    "python": "3.14.6 (main, Jun 10 2026, 10:03:53) [Clang 17.0.0 (clang-1700.6.4.2)]",
+    "before": {
+      "exit_code": 1,
+      "output": "F                                                                        [100%]\n=================================== FAILURES ===================================\n_______________ test_request_url_handles_leading_path_separators _______________\n\n    def test_request_url_handles_leading_path_separators():\n        \"\"\"See also https://github.com/psf/requests/issues/6643.\"\"\"\n        a = requests.adapters.HTTPAdapter()\n        p = requests.Request(method=\"GET\", url=\"http://127.0.0.1:10000//v:h\").prepare()\n>       assert \"//v:h\" == a.request_url(p, {})\nE       AssertionError: assert '//v:h' == '/v:h'\nE         \nE         - /v:h\nE         + //v:h\nE         ? +\n\ntests/test_adapters.py:8: AssertionError\n=========================== short test summary info ============================\nFAILED tests/test_adapters.py::test_request_url_handles_leading_path_separators\n1 failed in 0.11s\n"
+    },
+    "after": {
+      "exit_code": 0,
+      "output": ".                                                                        [100%]\n1 passed in 0.05s\n"
+    },
+    "fail_to_pass_observed": true
+  },
+  {
+    "instance_id": "rich_3063",
+    "materialization": {
+      "instance_id": "rich_3063",
+      "workspace": "/Users/topologyw/Documents/Codex/2026-09-26/bu-ya/work/reference_smoke_clean/rich_3063",
+      "snapshot": "/Users/topologyw/Documents/Kaggles/gemma_4/data/snapshots/rich_3063.tgz",
+      "members_extracted": 544,
+      "git_members_removed": 38,
+      "baseline_policy": "archive working tree, fresh git history; no gold patch or hidden test patch",
+      "declared_base_commit": "368e8ad77c95a6bef8f9d332039091d1417296bc"
+    },
+    "kind": "public test_patch target file; without repository conftest/plugins",
+    "command": [
+      "/Users/topologyw/Documents/Kaggles/gemma_4/.venv/bin/python",
+      "-m",
+      "pytest",
+      "--noconftest",
+      "-c",
+      "/dev/null",
+      "-o",
+      "addopts=",
+      "--rootdir",
+      "/Users/topologyw/Documents/Codex/2026-09-26/bu-ya/work/reference_smoke_clean/rich_3063",
+      "-p",
+      "no:cacheprovider",
+      "tests/test_markup.py",
+      "-q"
+    ],
+    "python": "3.14.6 (main, Jun 10 2026, 10:03:53) [Clang 17.0.0 (clang-1700.6.4.2)]",
+    "before": {
+      "exit_code": 1,
+      "output": "...F.................                                                    [100%]\n=================================== FAILURES ===================================\n__________________________ test_escape_backslash_end ___________________________\n\n    def test_escape_backslash_end():\n        # https://github.com/Textualize/rich/issues/2987\n        value = \"C:\\\\\"\n>       assert escape(value) == \"C:\\\\\\\\\"\nE       AssertionError: assert 'C:\\\\' == 'C:\\\\\\\\'\nE         \nE         - C:\\\\\nE         ?    -\nE         + C:\\\n\ntests/test_markup.py:50: AssertionError\n=========================== short test summary info ============================\nFAILED tests/test_markup.py::test_escape_backslash_end - AssertionError: asse...\n1 failed, 20 passed in 0.13s\n"
+    },
+    "after": {
+      "exit_code": 0,
+      "output": ".....................                                                    [100%]\n21 passed in 0.04s\n"
+    },
+    "fail_to_pass_observed": true
+  },
+  {
+    "instance_id": "fastapi_14786",
+    "materialization": {
+      "instance_id": "fastapi_14786",
+      "workspace": "/Users/topologyw/Documents/Codex/2026-09-26/bu-ya/work/reference_smoke_clean/fastapi_14786",
+      "snapshot": "/Users/topologyw/Documents/Kaggles/gemma_4/data/snapshots/fastapi_14786.tgz",
+      "members_extracted": 2982,
+      "git_members_removed": 38,
+      "baseline_policy": "archive working tree, fresh git history; no gold patch or hidden test patch",
+      "declared_base_commit": "eacbce24c9d299c6a28110d9fc8ac50f53cddb08"
+    },
+    "kind": "4 direct function assertions; not the full public test_patch",
+    "command": [
+      "/Users/topologyw/Documents/Kaggles/gemma_4/.venv/bin/python",
+      "-c",
+      "import runpy\nf=runpy.run_path(\"fastapi/security/utils.py\")[\"get_authorization_scheme_param\"]\nfor header,expected in [(\"Bearer  token \",(\"Bearer\",\"token\")),(\"Bearer token\",(\"Bearer\",\"token\")),(None,(\"\",\"\")),(\"\",(\"\",\"\"))]:\n    actual=f(header)\n    assert actual==expected,(header,actual,expected)\nprint(\"4 inline assertions passed\")\n"
+    ],
+    "python": "3.14.6 (main, Jun 10 2026, 10:03:53) [Clang 17.0.0 (clang-1700.6.4.2)]",
+    "before": {
+      "exit_code": 1,
+      "output": "Traceback (most recent call last):\n  File \"<string>\", line 5, in <module>\n    assert actual==expected,(header,actual,expected)\n           ^^^^^^^^^^^^^^^^\nAssertionError: ('Bearer  token ', ('Bearer', ' token '), ('Bearer', 'token'))\n"
+    },
+    "after": {
+      "exit_code": 0,
+      "output": "4 inline assertions passed\n"
+    },
+    "fail_to_pass_observed": true
+  }
+]

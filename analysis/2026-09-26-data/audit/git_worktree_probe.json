@@ -1,0 +1,58 @@
+[
+  {
+    "instance_id": "httpx_3672",
+    "base_commit": "4acf5c2c37714cc63b5cf71b3e284fca83c90311",
+    "HEAD": "3bc07e1fffda850cf92e597a1fc328c5f1b32d47 Update FileStream API (#3670)",
+    "4acf5c2c37714cc63b5cf71b3e284fca83c90311": "fatal: bad object 4acf5c2c37714cc63b5cf71b3e284fca83c90311",
+    "files": [
+      {
+        "path": "src/ahttpx/_parsers.py",
+        "HEAD_matches_working_tree": true,
+        "4acf5c2c37714cc63b5cf71b3e284fca83c90311_matches_working_tree": false
+      },
+      {
+        "path": "src/ahttpx/_pool.py",
+        "HEAD_matches_working_tree": true,
+        "4acf5c2c37714cc63b5cf71b3e284fca83c90311_matches_working_tree": false
+      },
+      {
+        "path": "src/ahttpx/_server.py",
+        "HEAD_matches_working_tree": true,
+        "4acf5c2c37714cc63b5cf71b3e284fca83c90311_matches_working_tree": false
+      },
+      {
+        "path": "src/httpx/_network.py",
+        "HEAD_matches_working_tree": true,
+        "4acf5c2c37714cc63b5cf71b3e284fca83c90311_matches_working_tree": false
+      },
+      {
+        "path": "src/httpx/_parsers.py",
+        "HEAD_matches_working_tree": true,
+        "4acf5c2c37714cc63b5cf71b3e284fca83c90311_matches_working_tree": false
+      },
+      {
+        "path": "src/httpx/_pool.py",
+        "HEAD_matches_working_tree": true,
+        "4acf5c2c37714cc63b5cf71b3e284fca83c90311_matches_working_tree": false
+      },
+      {
+        "path": "src/httpx/_server.py",
+        "HEAD_matches_working_tree": true,
+        "4acf5c2c37714cc63b5cf71b3e284fca83c90311_matches_working_tree": false
+      }
+    ]
+  },
+  {
+    "instance_id": "requests_7315",
+    "base_commit": "6360477c52303c9445b45fa8744b02d05a2f0905",
+    "HEAD": "ff2b582d029a3d50ea7bcf39744d2766b7aa99c1 Bump github/codeql-action from 4.34.1 to 4.35.1",
+    "6360477c52303c9445b45fa8744b02d05a2f0905": "fatal: bad object 6360477c52303c9445b45fa8744b02d05a2f0905",
+    "files": [
+      {
+        "path": "src/requests/adapters.py",
+        "HEAD_matches_working_tree": true,
+        "6360477c52303c9445b45fa8744b02d05a2f0905_matches_working_tree": false
+      }
+    ]
+  }
+]

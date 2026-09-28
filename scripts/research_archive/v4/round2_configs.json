@@ -1,0 +1,58 @@
+{
+  "code": {
+    "file": 0.5,
+    "exact": 0.2,
+    "test_graph": 0,
+    "role": true,
+    "code": 0.5
+  },
+  "prior": {
+    "file": 0.5,
+    "exact": 0.2,
+    "test_graph": 0,
+    "role": true,
+    "prior": true
+  },
+  "code_prior": {
+    "file": 0.5,
+    "exact": 0.2,
+    "test_graph": 0,
+    "role": true,
+    "code": 0.5,
+    "prior": true
+  },
+  "legacy_fusion": {
+    "file": 0.5,
+    "exact": 0.2,
+    "test_graph": 0,
+    "role": true,
+    "legacy": 1
+  },
+  "legacy_code": {
+    "file": 0.5,
+    "exact": 0.2,
+    "test_graph": 0,
+    "role": true,
+    "legacy": 1,
+    "code": 0.5
+  },
+  "legacy_code_prior": {
+    "file": 0.5,
+    "exact": 0.2,
+    "test_graph": 0,
+    "role": true,
+    "legacy": 1,
+    "code": 0.5,
+    "prior": true
+  },
+  "diverse": {
+    "file": 0.5,
+    "exact": 0.2,
+    "test_graph": 0,
+    "role": true,
+    "legacy": 1,
+    "code": 0.5,
+    "prior": true,
+    "diverse": true
+  }
+}
